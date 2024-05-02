@@ -103,9 +103,10 @@
     },
     {
         "id": 16,
-        "link": "https://dailyinqilab.com",
+        "name": "E Daily Inqilab",
+        "link": "https://dailyinqilab.com/epaper/",
         "image": "/images/dailyinqilab.com.jpg",
-        "category": "top"
+        "category": "bd-epapers"
     },
     {
         "id": 17,
@@ -458,105 +459,122 @@
     },
     {
         "id": 68,
+        "name": "E Prothom Alo",
         "link": "http://epaper.prothomalo.com",
         "image": "/images/epaper.prothomalo.com.jpg",
-        "category": "top"
+        "category": "bd-epapers"
     },
     {
         "id": 69,
+        "name": "E BD Pratidin",
         "link": "http://ebdpratidin.com",
         "image": "/images/bd-pratidin.com.jpg",
-        "category": "top"
+        "category": "bd-epapers"
     },
     {
         "id": 70,
+        "name": "E Jugantor",
         "link": "http://epaper.jugantor.com",
         "image": "/images/epaper.jugantor.gif",
-        "category": "top"
+        "category": "bd-epapers"
     },
     {
         "id": 71,
+        "name": "E Samakal",
         "link": "http://epaper.samakal.com",
         "image": "/images/samakal.net.jpg",
-        "category": "top"
+        "category": "bd-epapers"
     },
     {
         "id": 72,
+        "name": "E Janakantha",
         "link": "http://epaper.dailyjanakantha.com",
         "image": "/images/dailyjanakantha.com.jpg",
-        "category": "top"
+        "category": "bd-epapers"
     },
     {
         "id": 73,
+        "name": "E Bonik Barta",
         "link": "http://epaper.bonikbarta.net",
         "image": "/images/ebonik.png",
-        "category": "top"
+        "category": "bd-epapers"
     },
     {
         "id": 74,
+        "name": "E Naya Diganta",
         "link": "http://enayadiganta.com",
         "image": "/images/enayadiganta.com.gif",
-        "category": "top"
+        "category": "bd-epapers"
     },
     {
         "id": 75,
+        "name": "E Financial Express",
         "link": "http://epaper.thefinancialexpress.com.bd",
         "image": "/images/thefinancialexpress-bd.com.jpg",
-        "category": "top"
+        "category": "bd-epapers"
     },
     {
         "id": 76,
+        "name": "E Ittefaq",
         "link": "http://epaper.ittefaq.com.bd",
         "image": "/images/eittefaq.PNG",
-        "category": "top"
+        "category": "bd-epapers"
     },
     {
         "id": 77,
+        "name": "E Kalerkantho",
         "link": "http://www.ekalerkantho.com",
         "image": "/images/kalerkantho.com.jpg",
-        "category": "top"
+        "category": "bd-epapers"
     },
     {
         "id": 78,
+        "name": "E amadershomoy",
         "link": "http://epaper.dainikamadershomoy.com",
         "image": "/images/dainikamadershomoy.com.jpg",
-        "category": "top"
+        "category": "bd-epapers"
     },
     {
         "id": 79,
+        "name": "E Jai Jai Din",
         "link": "http://ejjdin.com",
         "image": "/images/jjdin.com.jpg",
-        "category": "top"
+        "category": "bd-epapers"
     },
     {
         "id": 80,
+        "name": "Daily Star Epaper",
         "link": "http://epaper.thedailystar.net",
         "image": "/images/thedailystar.net.jpg",
-        "category": "top"
+        "category": "bd-epapers"
     },
     {
         "id": 81,
+        "name": "The Business Standard",
         "link": "http://epaper.tbsnews.net",
         "image": "/images/epaper.tbsnews.net.PNG",
-        "category": "top"
+        "category": "bd-epapers"
     },
     {
         "id": 82,
+        "name": "E Share Biz",
         "link": "http://esharebiz.net",
         "image": "/images/esharebiz.jpg",
-        "category": "top"
+        "category": "bd-epapers"
     },
     {
         "id": 83,
+        "name": "E Bhorer Kagoj",
         "link": "http://ebhorerkagoj.com",
         "image": "/images/ebhorerkagoj.com.jpg",
-        "category": "top"
+        "category": "bd-epapers"
     },
     {
         "id": 84,
+        "name": "E Bangladesh Today",
         "link": "http://epaper.thebangladeshtoday.com",
         "image": "/images/thebangladeshtoday.com.jpg",
-        "category": "top"
+        "category": "bd-epapers"
     },
     {
         "id": 85,

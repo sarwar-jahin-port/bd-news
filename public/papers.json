@@ -3,1567 +3,1567 @@
         "id": 0,
         "name": "bdnews24.com",
         "link": "https://bangla.bdnews24.com",
-        "image": "/assets/images/1newsbd.com.jpg",
+        "image": "/images/1newsbd.com.jpg",
         "category": "top"
     },
     {
         "id": 1,
         "name": "বাংলাদেশ প্রতিদিন",
         "link": "https://bd-pratidin.com",
-        "image": "/assets/images/bd-pratidin.com.jpg",
+        "image": "/images/bd-pratidin.com.jpg",
         "category": "bd-newspapers"
     },
     {
         "id": 2,
         "name": "দৈনিক ইত্তেফাক",
         "link": "https://ittefaq.com.bd",
-        "image": "/assets/images/ittefaq.com.bd.jpg",
+        "image": "/images/ittefaq.com.bd.jpg",
         "category": "bd-newspapers"
     },
     {
         "id": 3,
         "name": "Kaler Kantho",
         "link": "https://kalerkantho.com",
-        "image": "/assets/images/kalerkantho.com.jpg",
+        "image": "/images/kalerkantho.com.jpg",
         "category": "bd-newspapers"
     },
     {
         "id": 4,
         "link": "https://jagonews24.com",
-        "image": "/assets/images/jagonews24.com.jpg",
+        "image": "/images/jagonews24.com.jpg",
         "category": "top"
     },
     {
         "id": 5,
         "link": "https://www.anandabazar.com",
-        "image": "/assets/images/anandabazar.com.jpg",
+        "image": "/images/anandabazar.com.jpg",
         "category": "top"
     },
     {
         "id": 6,
         "name": "Daily Prothom Alo",
         "link": "https://prothomalo.com",
-        "image": "/assets/images/prothom-alo.com.jpg",
+        "image": "/images/prothom-alo.com.jpg",
         "category": "bd-newspapers"
     },
     {
         "id": 7,
         "link": "https://samakal.com",
-        "image": "/assets/images/samakal.net.jpg",
+        "image": "/images/samakal.net.jpg",
         "category": "top"
     },
     {
         "id": 8,
         "link": "https://ntvbd.com",
-        "image": "/assets/images/ntvbd.com.jpg",
+        "image": "/images/ntvbd.com.jpg",
         "category": "top"
     },
     {
         "id": 9,
         "name": "নয়া দিগন্ত",
         "link": "https://dailynayadiganta.com",
-        "image": "/assets/images/dailynayadiganta.com.jpg",
+        "image": "/images/dailynayadiganta.com.jpg",
         "category": "bd-newspapers"
     },
     {
         "id": 10,
         "link": "https://jugantor.com",
-        "image": "/assets/images/jugantor.com.jpg",
+        "image": "/images/jugantor.com.jpg",
         "category": "top"
     },
     {
         "id": 11,
         "link": "https://somoynews.tv",
-        "image": "/assets/images/somoynews.tv.jpg",
+        "image": "/images/somoynews.tv.jpg",
         "category": "top"
     },
     {
         "id": 12,
         "link": "https://risingbd.com",
-        "image": "/assets/images/risingbd.com.jpg",
+        "image": "/images/risingbd.com.jpg",
         "category": "top"
     },
     {
         "id": 13,
         "link": "https://www.channelionline.com",
-        "image": "/assets/images/channel-i-tv.com.jpg",
+        "image": "/images/channel-i-tv.com.jpg",
         "category": "top"
     },
     {
         "id": 14,
         "link": "https://rtvonline.com",
-        "image": "/assets/images/rtvonline.com.jpg",
+        "image": "/images/rtvonline.com.jpg",
         "category": "top"
     },
     {
         "id": 15,
         "link": "https://bd24live.com",
-        "image": "/assets/images/bd24live.com.jpg",
+        "image": "/images/bd24live.com.jpg",
         "category": "top"
     },
     {
         "id": 16,
         "link": "https://dailyinqilab.com",
-        "image": "/assets/images/dailyinqilab.com.jpg",
+        "image": "/images/dailyinqilab.com.jpg",
         "category": "top"
     },
     {
         "id": 17,
         "link": "https://jjdin.com",
-        "image": "/assets/images/jjdin.com.jpg",
+        "image": "/images/jjdin.com.jpg",
         "category": "top"
     },
     {
         "id": 18,
         "link": "https://sharenews24.com",
-        "image": "/assets/images/sharenews24.com.jpg",
+        "image": "/images/sharenews24.com.jpg",
         "category": "top"
     },
     {
         "id": 19,
         "link": "https://thedailystar.net",
-        "image": "/assets/images/thedailystar.net.jpg",
+        "image": "/images/thedailystar.net.jpg",
         "category": "top"
     },
     {
         "id": 20,
         "link": "https://thebangladeshtoday.com",
-        "image": "/assets/images/thebangladeshtoday.com.jpg",
+        "image": "/images/thebangladeshtoday.com.jpg",
         "category": "top"
     },
     {
         "id": 21,
         "link": "https://ekushey-tv.com",
-        "image": "/assets/images/ekushey-tv.com.jpg",
+        "image": "/images/ekushey-tv.com.jpg",
         "category": "top"
     },
     {
         "id": 22,
         "link": "http://ittefaq.com.bd",
-        "image": "/assets/images/ittefaq.com.bd.jpg",
+        "image": "/images/ittefaq.com.bd.jpg",
         "category": "top"
     },
     {
         "id": 23,
         "link": "http://kalerkantho.com",
-        "image": "/assets/images/kalerkantho.com.jpg",
+        "image": "/images/kalerkantho.com.jpg",
         "category": "top"
     },
     {
         "id": 24,
         "link": "http://dailynayadiganta.com",
-        "image": "/assets/images/dailynayadiganta.com.jpg",
+        "image": "/images/dailynayadiganta.com.jpg",
         "category": "top"
     },
     {
         "id": 25,
         "name": "আমার সংবাদ",
         "link": "http://amarsangbad.com",
-        "image": "/assets/images/amar-sangbad.com.jpg",
+        "image": "/images/amar-sangbad.com.jpg",
         "category": "bd-newspapers"
     },
     {
         "id": 26,
         "name": "প্রতিদিনের সংবাদ",
         "link": "http://protidinersangbad.com",
-        "image": "/assets/images/protidinersangbad.com.jpg",
+        "image": "/images/protidinersangbad.com.jpg",
         "category": "bd-newspapers"
     },
     {
         "id": 27,
         "name": "যুগান্তর",
         "link": "http://jugantor.com",
-        "image": "/assets/images/jugantor.com.jpg",
+        "image": "/images/jugantor.com.jpg",
         "category": "bd-newspapers"
     },
     {
         "id": 28,
         "name": "দৈনিক সংগ্রাম",
         "link": "http://dailysangram.com",
-        "image": "/assets/images/dailysangram.com.jpg",
+        "image": "/images/dailysangram.com.jpg",
         "category": "bd-newspapers"
     },
     {
         "id": 29,
         "name": "মানবজমিন",
         "link": "http://mzamin.com",
-        "image": "/assets/images/mzamin.com.jpg",
+        "image": "/images/mzamin.com.jpg",
         "category": "bd-newspapers"
     },
     {
         "id": 30,
         "name": "আমাদের সময়",
         "link": "http://dainikamadershomoy.com",
-        "image": "/assets/images/dainikamadershomoy.com.jpg",
+        "image": "/images/dainikamadershomoy.com.jpg",
         "category": "bd-newspapers"
     },
     {
         "id": 31,
         "name": "বণিক বার্তা",
         "link": "http://bonikbarta.net",
-        "image": "/assets/images/bonikbarta.com.jpg",
+        "image": "/images/bonikbarta.com.jpg",
         "category": "bd-newspapers"
     },
     {
         "id": 32,
         "name": "সমকাল",
         "link": "http://samakal.com",
-        "image": "/assets/images/samakal.net.jpg",
+        "image": "/images/samakal.net.jpg",
         "category": "bd-newspapers"
     },
     {
         "id": 33,
         "name": "দৈনিক জনকন্ঠ",
         "link": "http://dailyjanakantha.com",
-        "image": "/assets/images/dailyjanakantha.com.jpg",
+        "image": "/images/dailyjanakantha.com.jpg",
         "category": "bd-newspapers"
     },
     {
         "id": 34,
         "name": "যায় যায় দিন",
         "link": "http://jjdin.com",
-        "image": "/assets/images/jjdin.com.jpg",
+        "image": "/images/jjdin.com.jpg",
         "category": "bd-newspapers"
     },
     {
         "id": 35,
         "name": "ভোরের কাগজ",
         "link": "http://bhorerkagoj.com",
-        "image": "/assets/images/bhorerkagoj.net.jpg",
+        "image": "/images/bhorerkagoj.net.jpg",
         "category": "bd-newspapers"
     },
     {
         "id": 36,
         "name": "অর্থনীতির কাগজ",
         "link": "http://arthoniteerkagoj.com",
-        "image": "/assets/images/arthoniteerkagoj.com.jpg",
+        "image": "/images/arthoniteerkagoj.com.jpg",
         "category": "bd-newspapers"
     },
     {
         "id": 37,
         "name": "দৈনিক ইনকিলাব",
         "link": "http://www.dailyinqilab.com",
-        "image": "/assets/images/dailyinqilab.com.jpg",
+        "image": "/images/dailyinqilab.com.jpg",
         "category": "bd-newspapers"
     },
     {
         "id": 38,
         "name": "সংবাদ",
         "link": "http://sangbad.net.bd",
-        "image": "/assets/images/sangbad.png",
+        "image": "/images/sangbad.png",
         "category": "bd-newspapers"
     },
     {
         "id": 39,
         "name": "মানবকন্ঠ",
         "link": "http://manobkantha.com",
-        "image": "/assets/images/manobkantha.com.jpg",
+        "image": "/images/manobkantha.com.jpg",
         "category": "bd-newspapers"
     },
     {
         "id": 40,
         "name": "সুপ্রভাত",
         "link": "http://suprobhat.com",
-        "image": "/assets/images/suprobhat.com.jpg",
+        "image": "/images/suprobhat.com.jpg",
         "category": "bd-newspapers"
     },
     {
         "id": 41,
         "name": "বাংলাদেশ জার্নাল",
         "link": "http://bd-journal.com",
-        "image": "/assets/images/bdjournal.jpg",
+        "image": "/images/bdjournal.jpg",
         "category": "bd-newspapers"
     },
     {
         "id": 42,
         "name": "আলোকিত বাংলাদেশ",
         "link": "http://alokitobangladesh.com",
-        "image": "/assets/images/alokitobangladesh.com.jpg",
+        "image": "/images/alokitobangladesh.com.jpg",
         "category": "bd-newspapers"
     },
     {
         "id": 43,
         "name": "আজকের বাজার",
         "link": "https://ajkerbazzar.com",
-        "image": "/assets/images/ajkerbazzar.com.jpg",
+        "image": "/images/ajkerbazzar.com.jpg",
         "category": "bd-newspapers"
     },
     {
         "id": 44,
         "name": "আমাদের অর্থনীতি",
         "link": "http://amaderorthoneeti.com",
-        "image": "/assets/images/amaderorthoneeti.com.jpg",
+        "image": "/images/amaderorthoneeti.com.jpg",
         "category": "bd-newspapers"
     },
     {
         "id": 45,
         "name": "Bangladesh Post",
         "link": "http://bangladeshpost.net",
-        "image": "/assets/images/bangladeshpost.jpg",
+        "image": "/images/bangladeshpost.jpg",
         "category": "en-newspapers"
     },
     {
         "id": 46,
         "name": "জাতীয় দৈনিক সরেজমিন বার্তা",
         "link": "http://sorejominbarta.com",
-        "image": "/assets/images/sorejominbarta.com.jpg",
+        "image": "/images/sorejominbarta.com.jpg",
         "category": "bd-newspapers"
     },
     {
         "id": 47,
         "name": "দৈনিক খবরপত্র",
         "link": "http://khoborpatrabd.com",
-        "image": "/assets/images/khoborpatrabd.com.jpg",
+        "image": "/images/khoborpatrabd.com.jpg",
         "category": "bd-newspapers"
     },
     {
         "id": 48,
         "name": "ভোরের পাতা",
         "link": "http://dailyvorerpata.com",
-        "image": "/assets/images/dailyvorerpata.com.jpg",
+        "image": "/images/dailyvorerpata.com.jpg",
         "category": "bd-newspapers"
     },
     {
         "id": 49,
         "name": "সময়ের আলো",
         "link": "http://shomoyeralo.com",
-        "image": "/assets/images/shomoyeralo.jpg",
+        "image": "/images/shomoyeralo.jpg",
         "category": "bd-newspapers"
     },
     {
         "id": 50,
         "name": "কালবেলা",
         "link": "http://kalbela.com",
-        "image": "/assets/images/kalbela.png",
+        "image": "/images/kalbela.png",
         "category": "bd-newspapers"
     },
     {
         "id": 51,
         "name": "শেয়ার বিজ",
         "link": "http://sharebiz.net",
-        "image": "/assets/images/sharebiz.net.jpg",
+        "image": "/images/sharebiz.net.jpg",
         "category": "bd-newspapers"
     },
     {
         "id": 52,
         "name": "দৈনিক বর্তমান",
         "link": "http://dailybartoman.com",
-        "image": "/assets/images/dailybartoman.com.jpg",
+        "image": "/images/dailybartoman.com.jpg",
         "category": "bd-newspapers"
     },
     {
         "id": 53,
         "name": "আজকের খবর",
         "link": "http://ajkalerkhobor.com",
-        "image": "/assets/images/ajkalerkhobor.com.jpg",
+        "image": "/images/ajkalerkhobor.com.jpg",
         "category": "bd-newspapers"
     },
     {
         "id": 54,
         "name": "সংবাদ কণিকা",
         "link": "http://sangbadkonika.com",
-        "image": "/assets/images/sangbadkonika.com.jpg",
+        "image": "/images/sangbadkonika.com.jpg",
         "category": "bd-newspapers"
     },
     {
         "id": 55,
         "name": "গণকন্ঠ",
         "link": "http://gonokantho.com",
-        "image": "/assets/images/gonokantho.jpg",
+        "image": "/images/gonokantho.jpg",
         "category": "bd-newspapers"
     },
     {
         "id": 56,
         "name": "The Daily Star",
         "link": "http://thedailystar.net",
-        "image": "/assets/images/thedailystar.net.jpg",
+        "image": "/images/thedailystar.net.jpg",
         "category": "en-newspapers"
     },
     {
         "id": 57,
         "name": "Daily Observer",
         "link": "http://observerbd.com",
-        "image": "/assets/images/observerbd.com.jpg",
+        "image": "/images/observerbd.com.jpg",
         "category": "en-newspapers"
     },
     {
         "id": 58,
         "name": "Then Financial Express",
         "link": "http://thefinancialexpress.com.bd",
-        "image": "/assets/images/thefinancialexpress-bd.com.jpg",
+        "image": "/images/thefinancialexpress-bd.com.jpg",
         "category": "en-newspapers"
     },
     {
         "id": 59,
         "name": "দেশ রূপান্তর",
         "link": "http://deshrupantor.com",
-        "image": "/assets/images/deshrupantor.com.gif",
+        "image": "/images/deshrupantor.com.gif",
         "category": "bd-newspapers"
     },
     {
         "id": 60,
         "name": "বাংলাদেশ খবর",
         "link": "http://bangladesherkhabor.net",
-        "image": "/assets/images/bangladesher-khobor-logo.gif",
+        "image": "/images/bangladesher-khobor-logo.gif",
         "category": "bd-newspapers"
     },
     {
         "id": 61,
         "name": "বাংলাদেশ বুলেটিন",
         "link": "http://bd-bulletin.com",
-        "image": "/assets/images/bd-bulletin.jpg",
+        "image": "/images/bd-bulletin.jpg",
         "category": "bd-newspapers"
     },
     {
         "id": 62,
         "name": "দৈনিক জাগরণ",
         "link": "http://dailyjagaran.com",
-        "image": "/assets/images/dailyjagaran.com.png",
+        "image": "/images/dailyjagaran.com.png",
         "category": "bd-newspapers"
     },
     {
         "id": 63,
         "name": "The Business Standard",
         "link": "http://tbsnews.net",
-        "image": "/assets/images/tbsnews.net.png",
+        "image": "/images/tbsnews.net.png",
         "category": "en-newspapers"
     },
     {
         "id": 64,
         "name": "Dhaka Tribute",
         "link": "http://dhakatribune.com",
-        "image": "/assets/images/dhakatribune.jpg",
+        "image": "/images/dhakatribune.jpg",
         "category": "en-newspapers"
     },
     {
         "id": 65,
         "name": "The Business Post",
         "link": "http://businesspostbd.com",
-        "image": "/assets/images/businesspostbd.com.jpg",
+        "image": "/images/businesspostbd.com.jpg",
         "category": "en-newspapers"
     },
     {
         "id": 66,
         "name": "আজকের পত্রিকা",
         "link": "http://ajkerpatrika.com",
-        "image": "/assets/images/ajkerpatrika.jpg",
+        "image": "/images/ajkerpatrika.jpg",
         "category": "bd-newspapers"
     },
     {
         "id": 67,
         "name": "দৈনিক বাংলা",
         "link": "http://www.dainikbangla.com.bd",
-        "image": "/assets/images/dainik-bangla.jpg",
+        "image": "/images/dainik-bangla.jpg",
         "category": "bd-newspapers"
     },
     {
         "id": 68,
         "link": "http://epaper.prothomalo.com",
-        "image": "/assets/images/epaper.prothomalo.com.jpg",
+        "image": "/images/epaper.prothomalo.com.jpg",
         "category": "top"
     },
     {
         "id": 69,
         "link": "http://ebdpratidin.com",
-        "image": "/assets/images/bd-pratidin.com.jpg",
+        "image": "/images/bd-pratidin.com.jpg",
         "category": "top"
     },
     {
         "id": 70,
         "link": "http://epaper.jugantor.com",
-        "image": "/assets/images/epaper.jugantor.gif",
+        "image": "/images/epaper.jugantor.gif",
         "category": "top"
     },
     {
         "id": 71,
         "link": "http://epaper.samakal.com",
-        "image": "/assets/images/samakal.net.jpg",
+        "image": "/images/samakal.net.jpg",
         "category": "top"
     },
     {
         "id": 72,
         "link": "http://epaper.dailyjanakantha.com",
-        "image": "/assets/images/dailyjanakantha.com.jpg",
+        "image": "/images/dailyjanakantha.com.jpg",
         "category": "top"
     },
     {
         "id": 73,
         "link": "http://epaper.bonikbarta.net",
-        "image": "/assets/images/ebonik.png",
+        "image": "/images/ebonik.png",
         "category": "top"
     },
     {
         "id": 74,
         "link": "http://enayadiganta.com",
-        "image": "/assets/images/enayadiganta.com.gif",
+        "image": "/images/enayadiganta.com.gif",
         "category": "top"
     },
     {
         "id": 75,
         "link": "http://epaper.thefinancialexpress.com.bd",
-        "image": "/assets/images/thefinancialexpress-bd.com.jpg",
+        "image": "/images/thefinancialexpress-bd.com.jpg",
         "category": "top"
     },
     {
         "id": 76,
         "link": "http://epaper.ittefaq.com.bd",
-        "image": "/assets/images/eittefaq.PNG",
+        "image": "/images/eittefaq.PNG",
         "category": "top"
     },
     {
         "id": 77,
         "link": "http://www.ekalerkantho.com",
-        "image": "/assets/images/kalerkantho.com.jpg",
+        "image": "/images/kalerkantho.com.jpg",
         "category": "top"
     },
     {
         "id": 78,
         "link": "http://epaper.dainikamadershomoy.com",
-        "image": "/assets/images/dainikamadershomoy.com.jpg",
+        "image": "/images/dainikamadershomoy.com.jpg",
         "category": "top"
     },
     {
         "id": 79,
         "link": "http://ejjdin.com",
-        "image": "/assets/images/jjdin.com.jpg",
+        "image": "/images/jjdin.com.jpg",
         "category": "top"
     },
     {
         "id": 80,
         "link": "http://epaper.thedailystar.net",
-        "image": "/assets/images/thedailystar.net.jpg",
+        "image": "/images/thedailystar.net.jpg",
         "category": "top"
     },
     {
         "id": 81,
         "link": "http://epaper.tbsnews.net",
-        "image": "/assets/images/epaper.tbsnews.net.PNG",
+        "image": "/images/epaper.tbsnews.net.PNG",
         "category": "top"
     },
     {
         "id": 82,
         "link": "http://esharebiz.net",
-        "image": "/assets/images/esharebiz.jpg",
+        "image": "/images/esharebiz.jpg",
         "category": "top"
     },
     {
         "id": 83,
         "link": "http://ebhorerkagoj.com",
-        "image": "/assets/images/ebhorerkagoj.com.jpg",
+        "image": "/images/ebhorerkagoj.com.jpg",
         "category": "top"
     },
     {
         "id": 84,
         "link": "http://epaper.thebangladeshtoday.com",
-        "image": "/assets/images/thebangladeshtoday.com.jpg",
+        "image": "/images/thebangladeshtoday.com.jpg",
         "category": "top"
     },
     {
         "id": 85,
         "link": "http://bangla.bdnews24.com",
-        "image": "/assets/images/bangla.bdnews24.com.jpg",
+        "image": "/images/bangla.bdnews24.com.jpg",
         "category": "top"
     },
     {
         "id": 86,
         "link": "http://banglanews24.com",
-        "image": "/assets/images/banglanews24.com.jpg",
+        "image": "/images/banglanews24.com.jpg",
         "category": "top"
     },
     {
         "id": 87,
         "link": "http://jagonews24.com",
-        "image": "/assets/images/jagonews24.com.jpg",
+        "image": "/images/jagonews24.com.jpg",
         "category": "top"
     },
     {
         "id": 88,
         "link": "http://priyo.com",
-        "image": "/assets/images/priyo.com.jpg",
+        "image": "/images/priyo.com.jpg",
         "category": "top"
     },
     {
         "id": 89,
         "link": "http://www.bd24live.com",
-        "image": "/assets/images/www.bd24live.com.jpg",
+        "image": "/images/www.bd24live.com.jpg",
         "category": "top"
     },
     {
         "id": 90,
         "link": "http://risingbd.com",
-        "image": "/assets/images/risingbd.com.jpg",
+        "image": "/images/risingbd.com.jpg",
         "category": "top"
     },
     {
         "id": 91,
         "link": "http://daily-bangladesh.com",
-        "image": "/assets/images/daily-bangladesh.com.jpg",
+        "image": "/images/daily-bangladesh.com.jpg",
         "category": "top"
     },
     {
         "id": 92,
         "link": "http://gonews24.com",
-        "image": "/assets/images/gonews24.com.jpg",
+        "image": "/images/gonews24.com.jpg",
         "category": "top"
     },
     {
         "id": 93,
         "link": "http://dhakapost.com",
-        "image": "/assets/images/dhakapost.com.jpg",
+        "image": "/images/dhakapost.com.jpg",
         "category": "top"
     },
     {
         "id": 94,
         "link": "http://banglatribune.com",
-        "image": "/assets/images/banglatribune.com.jpg",
+        "image": "/images/banglatribune.com.jpg",
         "category": "top"
     },
     {
         "id": 95,
         "link": "http://banglainsider.com",
-        "image": "/assets/images/banglainsider.com.jpg",
+        "image": "/images/banglainsider.com.jpg",
         "category": "top"
     },
     {
         "id": 96,
         "link": "http://unb.com.bd",
-        "image": "/assets/images/unb.com.bd.jpg",
+        "image": "/images/unb.com.bd.jpg",
         "category": "top"
     },
     {
         "id": 97,
         "link": "http://bssnews.net",
-        "image": "/assets/images/bssnews.net.jpg",
+        "image": "/images/bssnews.net.jpg",
         "category": "top"
     },
     {
         "id": 98,
         "link": "http://barta24.com",
-        "image": "/assets/images/barta24.com.jpg",
+        "image": "/images/barta24.com.jpg",
         "category": "top"
     },
     {
         "id": 99,
         "link": "http://amar-desh24.com",
-        "image": "/assets/images/amar-desh24.com.jpg",
+        "image": "/images/amar-desh24.com.jpg",
         "category": "top"
     },
     {
         "id": 100,
         "link": "http://sarabangla.net",
-        "image": "/assets/images/sarabangla.net.jpg",
+        "image": "/images/sarabangla.net.jpg",
         "category": "top"
     },
     {
         "id": 101,
         "link": "http://thedhakatimes.com",
-        "image": "/assets/images/thedhakatimes.com.jpg",
+        "image": "/images/thedhakatimes.com.jpg",
         "category": "top"
     },
     {
         "id": 102,
         "link": "http://dmpnews.org",
-        "image": "/assets/images/dmpnews.org.jpg",
+        "image": "/images/dmpnews.org.jpg",
         "category": "top"
     },
     {
         "id": 103,
         "link": "http://thereport24.com",
-        "image": "/assets/images/thereport24.com.jpg",
+        "image": "/images/thereport24.com.jpg",
         "category": "top"
     },
     {
         "id": 104,
         "link": "http://somoyerkonthosor.com",
-        "image": "/assets/images/somoyerkonthosor.com.jpg",
+        "image": "/images/somoyerkonthosor.com.jpg",
         "category": "top"
     },
     {
         "id": 105,
         "link": "http://arthosuchak.com",
-        "image": "/assets/images/arthosuchak.com.jpg",
+        "image": "/images/arthosuchak.com.jpg",
         "category": "top"
     },
     {
         "id": 106,
         "link": "http://sharenews24.com",
-        "image": "/assets/images/sharenews24.com.jpg",
+        "image": "/images/sharenews24.com.jpg",
         "category": "top"
     },
     {
         "id": 107,
         "link": "http://sunbd24.com",
-        "image": "/assets/images/sunbd24.com.jpg",
+        "image": "/images/sunbd24.com.jpg",
         "category": "top"
     },
     {
         "id": 108,
         "link": "http://orthosongbad.com",
-        "image": "/assets/images/orthosongbad.com.jpg",
+        "image": "/images/orthosongbad.com.jpg",
         "category": "top"
     },
     {
         "id": 109,
         "link": "http://ajkersottasangbad24.com",
-        "image": "/assets/images/ajkersottasangbad24.com.jpg",
+        "image": "/images/ajkersottasangbad24.com.jpg",
         "category": "top"
     },
     {
         "id": 110,
         "link": "http://thedhakapost.com",
-        "image": "/assets/images/thedhakapost.com.jpg",
+        "image": "/images/thedhakapost.com.jpg",
         "category": "top"
     },
     {
         "id": 111,
         "link": "http://onenewsbd.com",
-        "image": "/assets/images/onenewsbd.com.jpg",
+        "image": "/images/onenewsbd.com.jpg",
         "category": "top"
     },
     {
         "id": 112,
         "link": "http://deshnews.net",
-        "image": "/assets/images/deshnews.net.jpg",
+        "image": "/images/deshnews.net.jpg",
         "category": "top"
     },
     {
         "id": 113,
         "link": "http://deshersangbad.com",
-        "image": "/assets/images/deshersangbad.com.jpg",
+        "image": "/images/deshersangbad.com.jpg",
         "category": "top"
     },
     {
         "id": 114,
         "link": "http://lastnewsbd.com",
-        "image": "/assets/images/lastnewsbd.com.jpg",
+        "image": "/images/lastnewsbd.com.jpg",
         "category": "top"
     },
     {
         "id": 115,
         "link": "http://bangladaily24.com",
-        "image": "/assets/images/bangladaily24.com.jpg",
+        "image": "/images/bangladaily24.com.jpg",
         "category": "top"
     },
     {
         "id": 116,
         "link": "http://protikhon.com",
-        "image": "/assets/images/protikhon.com.jpg",
+        "image": "/images/protikhon.com.jpg",
         "category": "top"
     },
     {
         "id": 117,
         "link": "http://bartabangla.com",
-        "image": "/assets/images/bartabangla.com.jpg",
+        "image": "/images/bartabangla.com.jpg",
         "category": "top"
     },
     {
         "id": 118,
         "link": "http://bdtype.com",
-        "image": "/assets/images/bdtype.com.jpg",
+        "image": "/images/bdtype.com.jpg",
         "category": "top"
     },
     {
         "id": 119,
         "link": "http://news.zoombangla.com",
-        "image": "/assets/images/news.zoombangla.com.jpg",
+        "image": "/images/news.zoombangla.com.jpg",
         "category": "top"
     },
     {
         "id": 120,
         "link": "http://snn24.com",
-        "image": "/assets/images/snn24.com.jpg",
+        "image": "/images/snn24.com.jpg",
         "category": "top"
     },
     {
         "id": 121,
         "link": "http://alertnews24.com",
-        "image": "/assets/images/alertnews24.com.jpg",
+        "image": "/images/alertnews24.com.jpg",
         "category": "top"
     },
     {
         "id": 122,
         "link": "http://khoborprotidin24.com",
-        "image": "/assets/images/khoborprotidin24.com.jpg",
+        "image": "/images/khoborprotidin24.com.jpg",
         "category": "top"
     },
     {
         "id": 123,
         "link": "http://bdcricteam.com",
-        "image": "/assets/images/bdcricteam.com.jpg",
+        "image": "/images/bdcricteam.com.jpg",
         "category": "top"
     },
     {
         "id": 124,
         "link": "http://bbc24news.com",
-        "image": "/assets/images/bbc24news.com.jpg",
+        "image": "/images/bbc24news.com.jpg",
         "category": "top"
     },
     {
         "id": 125,
         "link": "http://tulpar24.com",
-        "image": "/assets/images/tulpar24.com.jpg",
+        "image": "/images/tulpar24.com.jpg",
         "category": "top"
     },
     {
         "id": 126,
         "link": "http://latestbdnews.com",
-        "image": "/assets/images/latestbdnews.com.jpg",
+        "image": "/images/latestbdnews.com.jpg",
         "category": "top"
     },
     {
         "id": 127,
         "link": "http://bartabazar.com",
-        "image": "/assets/images/bartabazar.com.jpg",
+        "image": "/images/bartabazar.com.jpg",
         "category": "top"
     },
     {
         "id": 128,
         "link": "http://dhakaprotidin.com",
-        "image": "/assets/images/dhakaprotidin.com.jpg",
+        "image": "/images/dhakaprotidin.com.jpg",
         "category": "top"
     },
     {
         "id": 129,
         "link": "http://eibela.com",
-        "image": "/assets/images/eibela.com.jpg",
+        "image": "/images/eibela.com.jpg",
         "category": "top"
     },
     {
         "id": 130,
         "link": "http://pbd.news",
-        "image": "/assets/images/pbd.news.jpg",
+        "image": "/images/pbd.news.jpg",
         "category": "top"
     },
     {
         "id": 131,
         "link": "http://techshohor.com",
-        "image": "/assets/images/techshohor.com.jpg",
+        "image": "/images/techshohor.com.jpg",
         "category": "top"
     },
     {
         "id": 132,
         "link": "http://techzoom.tv",
-        "image": "/assets/images/techzoom.tv.jpg",
+        "image": "/images/techzoom.tv.jpg",
         "category": "top"
     },
     {
         "id": 133,
         "link": "http://www.channelionline.com",
-        "image": "/assets/images/www.channelionline.com.jpg",
+        "image": "/images/www.channelionline.com.jpg",
         "category": "top"
     },
     {
         "id": 134,
         "link": "http://independent24.com",
-        "image": "/assets/images/independent24.com.jpg",
+        "image": "/images/independent24.com.jpg",
         "category": "top"
     },
     {
         "id": 135,
         "link": "http://somoynews.tv",
-        "image": "/assets/images/somoynews.tv.jpg",
+        "image": "/images/somoynews.tv.jpg",
         "category": "top"
     },
     {
         "id": 136,
         "link": "http://ntvbd.com",
-        "image": "/assets/images/ntvbd.com.jpg",
+        "image": "/images/ntvbd.com.jpg",
         "category": "top"
     },
     {
         "id": 137,
         "link": "http://channel24bd.tv",
-        "image": "/assets/images/channel24bd.tv.jpg",
+        "image": "/images/channel24bd.tv.jpg",
         "category": "top"
     },
     {
         "id": 138,
         "link": "http://rtvonline.com",
-        "image": "/assets/images/rtvonline.com.jpg",
+        "image": "/images/rtvonline.com.jpg",
         "category": "top"
     },
     {
         "id": 139,
         "link": "http://ekushey-tv.com",
-        "image": "/assets/images/ekushey-tv.com.jpg",
+        "image": "/images/ekushey-tv.com.jpg",
         "category": "top"
     },
     {
         "id": 140,
         "link": "http://atnbangla.tv",
-        "image": "/assets/images/atnbangla.tv.jpg",
+        "image": "/images/atnbangla.tv.jpg",
         "category": "top"
     },
     {
         "id": 141,
         "link": "http://jamuna.tv",
-        "image": "/assets/images/jamuna.tv.jpg",
+        "image": "/images/jamuna.tv.jpg",
         "category": "top"
     },
     {
         "id": 142,
         "link": "http://satv.tv",
-        "image": "/assets/images/satv.tv.jpg",
+        "image": "/images/satv.tv.jpg",
         "category": "top"
     },
     {
         "id": 143,
         "link": "http://desh.tv",
-        "image": "/assets/images/desh.tv.jpg",
+        "image": "/images/desh.tv.jpg",
         "category": "top"
     },
     {
         "id": 144,
         "link": "http://maasranga.tv",
-        "image": "/assets/images/maasranga.tv.jpg",
+        "image": "/images/maasranga.tv.jpg",
         "category": "top"
     },
     {
         "id": 145,
         "link": "http://banglavision.tv",
-        "image": "/assets/images/banglavision.tv.jpg",
+        "image": "/images/banglavision.tv.jpg",
         "category": "top"
     },
     {
         "id": 146,
         "link": "http://ekattor.tv",
-        "image": "/assets/images/ekattor.tv.jpg",
+        "image": "/images/ekattor.tv.jpg",
         "category": "top"
     },
     {
         "id": 147,
         "link": "http://atnnewstv.com",
-        "image": "/assets/images/atnnewstv.com.jpg",
+        "image": "/images/atnnewstv.com.jpg",
         "category": "top"
     },
     {
         "id": 148,
         "link": "http://mytvbd.tv",
-        "image": "/assets/images/mytvbd.tv.jpg",
+        "image": "/images/mytvbd.tv.jpg",
         "category": "top"
     },
     {
         "id": 149,
         "link": "http://boishakhi.tv",
-        "image": "/assets/images/boishakhi.tv.jpg",
+        "image": "/images/boishakhi.tv.jpg",
         "category": "top"
     },
     {
         "id": 150,
         "link": "http://mohona.tv",
-        "image": "/assets/images/mohona.tv.jpg",
+        "image": "/images/mohona.tv.jpg",
         "category": "top"
     },
     {
         "id": 151,
         "link": "http://gazitv.com",
-        "image": "/assets/images/gazitv.com.jpg",
+        "image": "/images/gazitv.com.jpg",
         "category": "top"
     },
     {
         "id": 152,
         "link": "http://btv.gov.bd",
-        "image": "/assets/images/btv.gov.bd.jpg",
+        "image": "/images/btv.gov.bd.jpg",
         "category": "top"
     },
     {
         "id": 153,
         "link": "http://channel-16tv.com",
-        "image": "/assets/images/channel-16tv.com.jpg",
+        "image": "/images/channel-16tv.com.jpg",
         "category": "top"
     },
     {
         "id": 154,
         "link": "http://gaanbangla.tv",
-        "image": "/assets/images/gaanbangla.tv.jpg",
+        "image": "/images/gaanbangla.tv.jpg",
         "category": "top"
     },
     {
         "id": 155,
         "link": "http://dainikazadi.net",
-        "image": "/assets/images/dainikazadi.net.jpg",
+        "image": "/images/dainikazadi.net.jpg",
         "category": "top"
     },
     {
         "id": 156,
         "link": "http://dainikpurbokone.net",
-        "image": "/assets/images/dainikpurbokone.net.jpg",
+        "image": "/images/dainikpurbokone.net.jpg",
         "category": "top"
     },
     {
         "id": 157,
         "link": "http://dailyamadercomilla.com",
-        "image": "/assets/images/dailyamadercomilla.com.jpg",
+        "image": "/images/dailyamadercomilla.com.jpg",
         "category": "top"
     },
     {
         "id": 158,
         "link": "http://purbanchal.com",
-        "image": "/assets/images/purbanchal.com.jpg",
+        "image": "/images/purbanchal.com.jpg",
         "category": "top"
     },
     {
         "id": 159,
         "link": "http://coxsbazarnews.com",
-        "image": "/assets/images/coxsbazarnews.com.jpg",
+        "image": "/images/coxsbazarnews.com.jpg",
         "category": "top"
     },
     {
         "id": 160,
         "link": "http://ukhiyanews.com",
-        "image": "/assets/images/ukhiyanews.com.jpg",
+        "image": "/images/ukhiyanews.com.jpg",
         "category": "top"
     },
     {
         "id": 161,
         "link": "http://khulnanews.com",
-        "image": "/assets/images/khulnanews.com.jpg",
+        "image": "/images/khulnanews.com.jpg",
         "category": "top"
     },
     {
         "id": 162,
         "link": "http://mathabhanga.com",
-        "image": "/assets/images/mathabhanga.com.jpg",
+        "image": "/images/mathabhanga.com.jpg",
         "category": "top"
     },
     {
         "id": 163,
         "link": "http://rajshahinews24.com",
-        "image": "/assets/images/rajshahinews24.com.jpg",
+        "image": "/images/rajshahinews24.com.jpg",
         "category": "top"
     },
     {
         "id": 164,
         "link": "http://chattogramnews.com",
-        "image": "/assets/images/chattogramnews.com.jpg",
+        "image": "/images/chattogramnews.com.jpg",
         "category": "top"
     },
     {
         "id": 165,
         "link": "http://dailykhowai.com",
-        "image": "/assets/images/dailykhowai.com.jpg",
+        "image": "/images/dailykhowai.com.jpg",
         "category": "top"
     },
     {
         "id": 166,
         "link": "http://karatoa.com.bd",
-        "image": "/assets/images/karatoa.com.bd.jpg",
+        "image": "/images/karatoa.com.bd.jpg",
         "category": "top"
     },
     {
         "id": 167,
         "link": "http://dainiksylhet.com",
-        "image": "/assets/images/dainiksylhet.com.jpg",
+        "image": "/images/dainiksylhet.com.jpg",
         "category": "top"
     },
     {
         "id": 168,
         "link": "http://dailycoxsbazar.com",
-        "image": "/assets/images/dailycoxsbazar.com.jpg",
+        "image": "/images/dailycoxsbazar.com.jpg",
         "category": "top"
     },
     {
         "id": 169,
         "link": "http://euttorpurbo.com",
-        "image": "/assets/images/euttorpurbo.com.jpg",
+        "image": "/images/euttorpurbo.com.jpg",
         "category": "top"
     },
     {
         "id": 170,
         "link": "http://ajkerjamalpur.com",
-        "image": "/assets/images/ajkerjamalpur.com.jpg",
+        "image": "/images/ajkerjamalpur.com.jpg",
         "category": "top"
     },
     {
         "id": 171,
         "link": "http://amaderbarisal.com",
-        "image": "/assets/images/amaderbarisal.com.jpg",
+        "image": "/images/amaderbarisal.com.jpg",
         "category": "top"
     },
     {
         "id": 172,
         "link": "http://surmatimes.com",
-        "image": "/assets/images/surmatimes.com.jpg",
+        "image": "/images/surmatimes.com.jpg",
         "category": "top"
     },
     {
         "id": 173,
         "link": "http://dailysylhet.com",
-        "image": "/assets/images/dailysylhet.com.jpg",
+        "image": "/images/dailysylhet.com.jpg",
         "category": "top"
     },
     {
         "id": 174,
         "link": "http://chandpurtimes.com",
-        "image": "/assets/images/chandpurtimes.com.jpg",
+        "image": "/images/chandpurtimes.com.jpg",
         "category": "top"
     },
     {
         "id": 175,
         "link": "http://muktokhobor24.com",
-        "image": "/assets/images/muktokhobor24.com.jpg",
+        "image": "/images/muktokhobor24.com.jpg",
         "category": "top"
     },
     {
         "id": 176,
         "link": "http://bograsangbad.com",
-        "image": "/assets/images/bograsangbad.com.jpg",
+        "image": "/images/bograsangbad.com.jpg",
         "category": "top"
     },
     {
         "id": 177,
         "link": "http://rajshahirsomoy.com",
-        "image": "/assets/images/rajshahirsomoy.com.jpg",
+        "image": "/images/rajshahirsomoy.com.jpg",
         "category": "top"
     },
     {
         "id": 178,
         "link": "http://sylhetexpress.com",
-        "image": "/assets/images/sylhetexpress.com.jpg",
+        "image": "/images/sylhetexpress.com.jpg",
         "category": "top"
     },
     {
         "id": 179,
         "link": "http://lakshmipur24.com",
-        "image": "/assets/images/lakshmipur24.com.jpg",
+        "image": "/images/lakshmipur24.com.jpg",
         "category": "top"
     },
     {
         "id": 180,
         "link": "http://prothom-feni.com",
-        "image": "/assets/images/prothom-feni.com.jpg",
+        "image": "/images/prothom-feni.com.jpg",
         "category": "top"
     },
     {
         "id": 181,
         "link": "http://amarnoakhali.com",
-        "image": "/assets/images/amarnoakhali.com.jpg",
+        "image": "/images/amarnoakhali.com.jpg",
         "category": "top"
     },
     {
         "id": 182,
         "link": "http://chakarianews.com",
-        "image": "/assets/images/chakarianews.com.jpg",
+        "image": "/images/chakarianews.com.jpg",
         "category": "top"
     },
     {
         "id": 183,
         "link": "http://gramerkagoj.com",
-        "image": "/assets/images/gramerkagoj.com.jpg",
+        "image": "/images/gramerkagoj.com.jpg",
         "category": "top"
     },
     {
         "id": 184,
         "link": "http://khulnanchal.com",
-        "image": "/assets/images/khulnanchal.com.jpg",
+        "image": "/images/khulnanchal.com.jpg",
         "category": "top"
     },
     {
         "id": 185,
         "link": "http://www.afp.com",
-        "image": "/assets/images/www.afp.com.jpg",
+        "image": "/images/www.afp.com.jpg",
         "category": "top"
     },
     {
         "id": 186,
         "link": "http://theguardian.com",
-        "image": "/assets/images/theguardian.com.jpg",
+        "image": "/images/theguardian.com.jpg",
         "category": "top"
     },
     {
         "id": 187,
         "link": "http://abcnews.go.com",
-        "image": "/assets/images/abcnews.go.com.jpg",
+        "image": "/images/abcnews.go.com.jpg",
         "category": "top"
     },
     {
         "id": 188,
         "link": "http://themoscowtimes.com",
-        "image": "/assets/images/themoscowtimes.com.jpg",
+        "image": "/images/themoscowtimes.com.jpg",
         "category": "top"
     },
     {
         "id": 189,
         "link": "http://newagebd.net",
-        "image": "/assets/images/newagebd.net.jpg",
+        "image": "/images/newagebd.net.jpg",
         "category": "top"
     },
     {
         "id": 190,
         "link": "http://news.yahoo.com",
-        "image": "/assets/images/news.yahoo.com.jpg",
+        "image": "/images/news.yahoo.com.jpg",
         "category": "top"
     },
     {
         "id": 191,
         "link": "http://daily-sun.com",
-        "image": "/assets/images/daily-sun.com.jpg",
+        "image": "/images/daily-sun.com.jpg",
         "category": "top"
     },
     {
         "id": 192,
         "link": "http://thebangladeshtoday.com",
-        "image": "/assets/images/thebangladeshtoday.com.jpg",
+        "image": "/images/thebangladeshtoday.com.jpg",
         "category": "top"
     },
     {
         "id": 193,
         "link": "http://nytimes.com",
-        "image": "/assets/images/nytimes.com.jpg",
+        "image": "/images/nytimes.com.jpg",
         "category": "top"
     },
     {
         "id": 194,
         "link": "http://hindustantimes.com",
-        "image": "/assets/images/hindustantimes.com.jpg",
+        "image": "/images/hindustantimes.com.jpg",
         "category": "top"
     },
     {
         "id": 195,
         "link": "http://voabangla.com",
-        "image": "/assets/images/voabangla.com.jpg",
+        "image": "/images/voabangla.com.jpg",
         "category": "top"
     },
     {
         "id": 196,
         "link": "http://abcradio.fm",
-        "image": "/assets/images/abcradio.fm.jpg",
+        "image": "/images/abcradio.fm.jpg",
         "category": "top"
     },
     {
         "id": 197,
         "link": "http://radiotodaybd.fm",
-        "image": "/assets/images/radiotodaybd.fm.jpg",
+        "image": "/images/radiotodaybd.fm.jpg",
         "category": "top"
     },
     {
         "id": 198,
         "link": "http://unmultimedia.org",
-        "image": "/assets/images/unmultimedia.org.jpg",
+        "image": "/images/unmultimedia.org.jpg",
         "category": "top"
     },
     {
         "id": 199,
         "link": "http://dhakafm904.com",
-        "image": "/assets/images/dhakafm904.com.jpg",
+        "image": "/images/dhakafm904.com.jpg",
         "category": "top"
     },
     {
         "id": 200,
         "link": "http://radiofoorti.fm",
-        "image": "/assets/images/radiofoorti.fm.jpg",
+        "image": "/images/radiofoorti.fm.jpg",
         "category": "top"
     },
     {
         "id": 201,
         "link": "http://betar.gov.bd",
-        "image": "/assets/images/betar.gov.bd.jpg",
+        "image": "/images/betar.gov.bd.jpg",
         "category": "top"
     },
     {
         "id": 202,
         "link": "http://peoplesradio.fm",
-        "image": "/assets/images/peoplesradio.fm.jpg",
+        "image": "/images/peoplesradio.fm.jpg",
         "category": "top"
     },
     {
         "id": 203,
         "link": "http://radioshadhin.fm",
-        "image": "/assets/images/radioshadhin.fm.jpg",
+        "image": "/images/radioshadhin.fm.jpg",
         "category": "top"
     },
     {
         "id": 204,
         "link": "http://banglaradio24.com",
-        "image": "/assets/images/banglaradio24.com.jpg",
+        "image": "/images/banglaradio24.com.jpg",
         "category": "top"
     },
     {
         "id": 205,
         "link": "http://radiogoongoon.com",
-        "image": "/assets/images/radiogoongoon.com.jpg",
+        "image": "/images/radiogoongoon.com.jpg",
         "category": "top"
     },
     {
         "id": 206,
         "link": "http://jago.fm",
-        "image": "/assets/images/jago.fm.jpg",
+        "image": "/images/jago.fm.jpg",
         "category": "top"
     },
     {
         "id": 207,
         "link": "http://edition.cnn.com",
-        "image": "/assets/images/edition.cnn.com.jpg",
+        "image": "/images/edition.cnn.com.jpg",
         "category": "top"
     },
     {
         "id": 208,
         "link": "http://aljazeera.com",
-        "image": "/assets/images/aljazeera.com.jpg",
+        "image": "/images/aljazeera.com.jpg",
         "category": "top"
     },
     {
         "id": 209,
         "link": "http://bbc.com",
-        "image": "/assets/images/bbc.com.jpg",
+        "image": "/images/bbc.com.jpg",
         "category": "top"
     },
     {
         "id": 210,
         "link": "http://ndtv.com",
-        "image": "/assets/images/ndtv.com.jpg",
+        "image": "/images/ndtv.com.jpg",
         "category": "top"
     },
     {
         "id": 211,
         "link": "http://reuters.com",
-        "image": "/assets/images/reuters.com.jpg",
+        "image": "/images/reuters.com.jpg",
         "category": "top"
     },
     {
         "id": 212,
         "link": "http://foxnews.com",
-        "image": "/assets/images/foxnews.com.jpg",
+        "image": "/images/foxnews.com.jpg",
         "category": "top"
     },
     {
         "id": 213,
         "link": "http://geo.tv",
-        "image": "/assets/images/geo.tv.jpg",
+        "image": "/images/geo.tv.jpg",
         "category": "top"
     },
     {
         "id": 214,
         "link": "http://news.sky.com",
-        "image": "/assets/images/news.sky.com.jpg",
+        "image": "/images/news.sky.com.jpg",
         "category": "top"
     },
     {
         "id": 215,
         "link": "http://euronews.com",
-        "image": "/assets/images/euronews.com.jpg",
+        "image": "/images/euronews.com.jpg",
         "category": "top"
     },
     {
         "id": 216,
         "link": "http://presstv.ir",
-        "image": "/assets/images/presstv.ir.jpg",
+        "image": "/images/presstv.ir.jpg",
         "category": "top"
     },
     {
         "id": 217,
         "link": "http://discovery.com",
-        "image": "/assets/images/discovery.com.jpg",
+        "image": "/images/discovery.com.jpg",
         "category": "top"
     },
     {
         "id": 218,
         "link": "http://english.cctv.com",
-        "image": "/assets/images/english.cctv.com.jpg",
+        "image": "/images/english.cctv.com.jpg",
         "category": "top"
     },
     {
         "id": 219,
         "link": "http://anandabazar.com",
-        "image": "/assets/images/anandabazar.com.jpg",
+        "image": "/images/anandabazar.com.jpg",
         "category": "top"
     },
     {
         "id": 220,
         "link": "http://aajkaal.in",
-        "image": "/assets/images/aajkaal.in.jpg",
+        "image": "/images/aajkaal.in.jpg",
         "category": "top"
     },
     {
         "id": 221,
         "link": "http://kolkata24x7.in",
-        "image": "/assets/images/kolkata24x7.in.jpg",
+        "image": "/images/kolkata24x7.in.jpg",
         "category": "top"
     },
     {
         "id": 222,
         "link": "http://bengali.abplive.com",
-        "image": "/assets/images/bengali.abplive.com.jpg",
+        "image": "/images/bengali.abplive.com.jpg",
         "category": "top"
     },
     {
         "id": 223,
         "link": "http://syandanpatrika.com",
-        "image": "/assets/images/syandanpatrika.com.jpg",
+        "image": "/images/syandanpatrika.com.jpg",
         "category": "top"
     },
     {
         "id": 224,
         "link": "http://sangbadpratidin.in",
-        "image": "/assets/images/sangbadpratidin.in.jpg",
+        "image": "/images/sangbadpratidin.in.jpg",
         "category": "top"
     },
     {
         "id": 225,
         "link": "http://bartamanpatrika.com",
-        "image": "/assets/images/bartamanpatrika.com.jpg",
+        "image": "/images/bartamanpatrika.com.jpg",
         "category": "top"
     },
     {
         "id": 226,
         "link": "http://ganashakti.com",
-        "image": "/assets/images/ganashakti.com.jpg",
+        "image": "/images/ganashakti.com.jpg",
         "category": "top"
     },
     {
         "id": 227,
         "link": "http://asomiyapratidin.co.in",
-        "image": "/assets/images/asomiyapratidin.co.in.jpg",
+        "image": "/images/asomiyapratidin.co.in.jpg",
         "category": "top"
     },
     {
         "id": 228,
         "link": "http://eisamay.com",
-        "image": "/assets/images/eisamay.com.jpg",
+        "image": "/images/eisamay.com.jpg",
         "category": "top"
     },
     {
         "id": 229,
         "link": "http://uttarbangasambad.com",
-        "image": "/assets/images/uttarbangasambad.com.jpg",
+        "image": "/images/uttarbangasambad.com.jpg",
         "category": "top"
     },
     {
         "id": 230,
         "link": "http://ebela.in",
-        "image": "/assets/images/ebela.in.jpg",
+        "image": "/images/ebela.in.jpg",
         "category": "top"
     },
     {
         "id": 231,
         "link": "http://dainiksambad.net",
-        "image": "/assets/images/dainiksambad.net.jpg",
+        "image": "/images/dainiksambad.net.jpg",
         "category": "top"
     },
     {
         "id": 232,
         "link": "http://aamadermalda.in",
-        "image": "/assets/images/aamadermalda.in.jpg",
+        "image": "/images/aamadermalda.in.jpg",
         "category": "top"
     },
     {
         "id": 233,
         "link": "http://bangla.ganashakti.co.in",
-        "image": "/assets/images/bangla.ganashakti.co.in.jpg",
+        "image": "/images/bangla.ganashakti.co.in.jpg",
         "category": "top"
     },
     {
         "id": 234,
         "link": "http://bangladesherkhela.com",
-        "image": "/assets/images/bangladesherkhela.com.jpg",
+        "image": "/images/bangladesherkhela.com.jpg",
         "category": "top"
     },
     {
         "id": 235,
         "link": "http://weeklybangalee.com",
-        "image": "/assets/images/weeklybangalee.com.jpg",
+        "image": "/images/weeklybangalee.com.jpg",
         "category": "top"
     },
     {
         "id": 236,
         "link": "http://dhakacourier.com.bd",
-        "image": "/assets/images/dhakacourier.com.bd.jpg",
+        "image": "/images/dhakacourier.com.bd.jpg",
         "category": "top"
     },
     {
         "id": 237,
         "link": "http://bichitra.org",
-        "image": "/assets/images/bichitra.org.jpg",
+        "image": "/images/bichitra.org.jpg",
         "category": "top"
     },
     {
         "id": 238,
         "link": "http://comjagat.com",
-        "image": "/assets/images/comjagat.com.jpg",
+        "image": "/images/comjagat.com.jpg",
         "category": "top"
     },
     {
         "id": 239,
         "link": "http://weeklyholiday.net",
-        "image": "/assets/images/weeklyholiday.net.jpg",
+        "image": "/images/weeklyholiday.net.jpg",
         "category": "top"
     },
     {
         "id": 240,
         "link": "http://kaliokalam.com",
-        "image": "/assets/images/kaliokalam.com.jpg",
+        "image": "/images/kaliokalam.com.jpg",
         "category": "top"
     },
     {
         "id": 241,
         "link": "http://scientificbangladesh.com",
-        "image": "/assets/images/scientificbangladesh.com.jpg",
+        "image": "/images/scientificbangladesh.com.jpg",
         "category": "top"
     },
     {
         "id": 242,
         "link": "http://bdjobs.com",
-        "image": "/assets/images/bdjobs.com.jpg",
+        "image": "/images/bdjobs.com.jpg",
         "category": "top"
     },
     {
         "id": 243,
         "link": "http://jobsbd.com",
-        "image": "/assets/images/jobsbd.com.jpg",
+        "image": "/images/jobsbd.com.jpg",
         "category": "top"
     },
     {
         "id": 244,
         "link": "http://jobsa1.com",
-        "image": "/assets/images/jobsa1.com.jpg",
+        "image": "/images/jobsa1.com.jpg",
         "category": "top"
     },
     {
         "id": 245,
         "link": "http://jobsinbd.com",
-        "image": "/assets/images/jobsinbd.com.jpg",
+        "image": "/images/jobsinbd.com.jpg",
         "category": "top"
     },
     {
         "id": 246,
         "link": "http://bdjobstoday.com",
-        "image": "/assets/images/bdjobstoday.com.jpg",
+        "image": "/images/bdjobstoday.com.jpg",
         "category": "top"
     },
     {
         "id": 247,
         "link": "http://job.com.bd",
-        "image": "/assets/images/job.com.bd.jpg",
+        "image": "/images/job.com.bd.jpg",
         "category": "top"
     },
     {
         "id": 248,
         "link": "http://jobsearch.gov.au",
-        "image": "/assets/images/jobsearch.gov.au.jpg",
+        "image": "/images/jobsearch.gov.au.jpg",
         "category": "top"
     },
     {
         "id": 249,
         "link": "http://educationbangla.com",
-        "image": "/assets/images/educationbangla.com.jpg",
+        "image": "/images/educationbangla.com.jpg",
         "category": "top"
     },
     {
         "id": 250,
         "link": "http://educationboardresults.gov.bd",
-        "image": "/assets/images/educationboardresults.gov.bd.jpg",
+        "image": "/images/educationboardresults.gov.bd.jpg",
         "category": "top"
     },
     {
         "id": 251,
         "link": "http://www.nu.ac.bd",
-        "image": "/assets/images/www.nu.ac.bd.jpg",
+        "image": "/images/www.nu.ac.bd.jpg",
         "category": "top"
     },
     {
         "id": 252,
         "link": "https://www.kholakagojbd.com/",
-        "image": "/assets/images/kholakagojbd.com.gif",
+        "image": "/images/kholakagojbd.com.gif",
         "category": "bd-newspapers"
     }
 ]

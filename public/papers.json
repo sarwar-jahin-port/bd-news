@@ -578,291 +578,339 @@
     },
     {
         "id": 85,
+        "name": "BD News 24",
         "link": "http://bangla.bdnews24.com",
         "image": "/images/bangla.bdnews24.com.jpg",
-        "category": "top"
+        "category": "online-newspapers"
     },
     {
         "id": 86,
+        "name": "Bangla News 24",
         "link": "http://banglanews24.com",
         "image": "/images/banglanews24.com.jpg",
-        "category": "top"
+        "category": "online-newspapers"
     },
     {
         "id": 87,
+        "name": "Jago News 24",
         "link": "http://jagonews24.com",
         "image": "/images/jagonews24.com.jpg",
-        "category": "top"
+        "category": "online-newspapers"
     },
     {
         "id": 88,
+        "name": "Priyo",
         "link": "http://priyo.com",
-        "image": "/images/priyo.com.jpg",
-        "category": "top"
+        "image": "/images/priyo.com.png",
+        "category": "online-newspapers"
     },
     {
         "id": 89,
+        "name": "BD 24 Live",
         "link": "http://www.bd24live.com",
-        "image": "/images/www.bd24live.com.jpg",
-        "category": "top"
+        "image": "/images/bd24live.com.jpg",
+        "category": "online-newspapers"
     },
     {
         "id": 90,
+        "name": "Rising BD",
         "link": "http://risingbd.com",
         "image": "/images/risingbd.com.jpg",
-        "category": "top"
+        "category": "online-newspapers"
     },
     {
         "id": 91,
+        "name": "Daily Bangladesh",
         "link": "http://daily-bangladesh.com",
-        "image": "/images/daily-bangladesh.com.jpg",
-        "category": "top"
+        "image": "/images/daily-bangladesh.png",
+        "category": "online-newspapers"
     },
     {
         "id": 92,
+        "name": "Gonews 24",
         "link": "http://gonews24.com",
         "image": "/images/gonews24.com.jpg",
-        "category": "top"
+        "category": "online-newspapers"
     },
     {
         "id": 93,
+        "name": "Dhaka Post",
         "link": "http://dhakapost.com",
-        "image": "/images/dhakapost.com.jpg",
-        "category": "top"
+        "image": "/images/dhaka-post.jpg",
+        "category": "online-newspapers"
     },
     {
         "id": 94,
+        "name": "Bangla Tribune",
         "link": "http://banglatribune.com",
         "image": "/images/banglatribune.com.jpg",
-        "category": "top"
+        "category": "online-newspapers"
     },
     {
         "id": 95,
+        "name": "Bangla Insider",
         "link": "http://banglainsider.com",
-        "image": "/images/banglainsider.com.jpg",
-        "category": "top"
+        "image": "/images/bangla-insider.jpg",
+        "category": "online-newspapers"
     },
     {
         "id": 96,
+        "name": "UNB",
         "link": "http://unb.com.bd",
-        "image": "/images/unb.com.bd.jpg",
-        "category": "top"
+        "image": "/images/unb.jpg",
+        "category": "online-newspapers"
     },
     {
         "id": 97,
+        "name": "BSS News",
         "link": "http://bssnews.net",
         "image": "/images/bssnews.net.jpg",
-        "category": "top"
+        "category": "online-newspapers"
     },
     {
         "id": 98,
+        "name": "Barta 24",
         "link": "http://barta24.com",
         "image": "/images/barta24.com.jpg",
-        "category": "top"
+        "category": "online-newspapers"
     },
     {
         "id": 99,
+        "name": "Amar Desh",
         "link": "http://amar-desh24.com",
-        "image": "/images/amar-desh24.com.jpg",
-        "category": "top"
+        "image": "/images/amardesh-24.png",
+        "category": "online-newspapers"
     },
     {
         "id": 100,
+        "name": "Sarabangla",
         "link": "http://sarabangla.net",
-        "image": "/images/sarabangla.net.jpg",
-        "category": "top"
+        "image": "/images/sarabangla.webp",
+        "category": "online-newspapers"
     },
     {
         "id": 101,
+        "name": "Dhaka Times",
         "link": "http://thedhakatimes.com",
-        "image": "/images/thedhakatimes.com.jpg",
-        "category": "top"
+        "image": "/images/dhakatimes.com.bd.jpg",
+        "category": "online-newspapers"
     },
     {
         "id": 102,
+        "name": "DMP News",
         "link": "http://dmpnews.org",
-        "image": "/images/dmpnews.org.jpg",
-        "category": "top"
+        "image": "/images/dmpnews.png",
+        "category": "online-newspapers"
     },
     {
         "id": 103,
+        "name": "The Report 24",
         "link": "http://thereport24.com",
-        "image": "/images/thereport24.com.jpg",
-        "category": "top"
+        "image": "/images/thereport24.com.png",
+        "category": "online-newspapers"
     },
     {
         "id": 104,
+        "name": "Somoyer Konthosor",
         "link": "http://somoyerkonthosor.com",
         "image": "/images/somoyerkonthosor.com.jpg",
-        "category": "top"
+        "category": "online-newspapers"
     },
     {
         "id": 105,
+        "name": "Artho Suchak",
         "link": "http://arthosuchak.com",
         "image": "/images/arthosuchak.com.jpg",
-        "category": "top"
+        "category": "online-newspapers"
     },
     {
         "id": 106,
+        "name": "Share News 24",
         "link": "http://sharenews24.com",
         "image": "/images/sharenews24.com.jpg",
-        "category": "top"
+        "category": "online-newspapers"
     },
     {
         "id": 107,
+        "name": "Sunbd24",
         "link": "http://sunbd24.com",
-        "image": "/images/sunbd24.com.jpg",
-        "category": "top"
+        "image": "/images/sunbd24.png",
+        "category": "online-newspapers"
     },
     {
         "id": 108,
+        "name": "Orthosongbad",
         "link": "http://orthosongbad.com",
-        "image": "/images/orthosongbad.com.jpg",
-        "category": "top"
+        "image": "/images/orthosongbad.jpg",
+        "category": "online-newspapers"
     },
     {
         "id": 109,
+        "name": "Ajker Sotta Sangbad",
         "link": "http://ajkersottasangbad24.com",
         "image": "/images/ajkersottasangbad24.com.jpg",
-        "category": "top"
+        "category": "online-newspapers"
     },
     {
         "id": 110,
+        "name": "Dhaka Post",
         "link": "http://thedhakapost.com",
         "image": "/images/thedhakapost.com.jpg",
-        "category": "top"
+        "category": "online-newspapers"
     },
     {
         "id": 111,
+        "name": "1 News BD",
         "link": "http://onenewsbd.com",
-        "image": "/images/onenewsbd.com.jpg",
-        "category": "top"
+        "image": "/images/1newsbd.com.jpg",
+        "category": "online-newspapers"
     },
     {
         "id": 112,
+        "name": "Desh News",
         "link": "http://deshnews.net",
         "image": "/images/deshnews.net.jpg",
-        "category": "top"
+        "category": "online-newspapers"
     },
     {
         "id": 113,
+        "name": "Dasher Sangbad",
         "link": "http://deshersangbad.com",
         "image": "/images/deshersangbad.com.jpg",
-        "category": "top"
+        "category": "online-newspapers"
     },
     {
         "id": 114,
+        "name": "Last News BD",
         "link": "http://lastnewsbd.com",
         "image": "/images/lastnewsbd.com.jpg",
-        "category": "top"
+        "category": "online-newspapers"
     },
     {
         "id": 115,
+        "name": "Bangla Daily 24",
         "link": "http://bangladaily24.com",
         "image": "/images/bangladaily24.com.jpg",
-        "category": "top"
+        "category": "online-newspapers"
     },
     {
         "id": 116,
+        "name": "Protikhon",
         "link": "http://protikhon.com",
         "image": "/images/protikhon.com.jpg",
-        "category": "top"
+        "category": "online-newspapers"
     },
     {
         "id": 117,
+        "name": "Barta Bangla",
         "link": "http://bartabangla.com",
         "image": "/images/bartabangla.com.jpg",
-        "category": "top"
+        "category": "online-newspapers"
     },
     {
         "id": 118,
+        "name": "BD Type",
         "link": "http://bdtype.com",
         "image": "/images/bdtype.com.jpg",
-        "category": "top"
+        "category": "online-newspapers"
     },
     {
         "id": 119,
+        "name": "Zoom Bangla",
         "link": "http://news.zoombangla.com",
         "image": "/images/news.zoombangla.com.jpg",
-        "category": "top"
+        "category": "online-newspapers"
     },
     {
         "id": 120,
+        "name": "SNN24",
         "link": "http://snn24.com",
         "image": "/images/snn24.com.jpg",
-        "category": "top"
+        "category": "online-newspapers"
     },
     {
         "id": 121,
+        "name": "Alert News",
         "link": "http://alertnews24.com",
         "image": "/images/alertnews24.com.jpg",
-        "category": "top"
+        "category": "online-newspapers"
     },
     {
         "id": 122,
+        "name": "Khobor Protidin",
         "link": "http://khoborprotidin24.com",
         "image": "/images/khoborprotidin24.com.jpg",
-        "category": "top"
+        "category": "online-newspapers"
     },
     {
         "id": 123,
+        "name": "BD Cricteam",
         "link": "http://bdcricteam.com",
         "image": "/images/bdcricteam.com.jpg",
-        "category": "top"
+        "category": "online-newspapers"
     },
     {
         "id": 124,
+        "name": "Bbc 24 News",
         "link": "http://bbc24news.com",
         "image": "/images/bbc24news.com.jpg",
-        "category": "top"
+        "category": "online-newspapers"
     },
     {
         "id": 125,
+        "name": "Tulpar24",
         "link": "http://tulpar24.com",
         "image": "/images/tulpar24.com.jpg",
-        "category": "top"
+        "category": "online-newspapers"
     },
     {
         "id": 126,
+        "name": "Latest BD News",
         "link": "http://latestbdnews.com",
         "image": "/images/latestbdnews.com.jpg",
-        "category": "top"
+        "category": "online-newspapers"
     },
     {
         "id": 127,
+        "name": "Barta Bazar",
         "link": "http://bartabazar.com",
         "image": "/images/bartabazar.com.jpg",
-        "category": "top"
+        "category": "online-newspapers"
     },
     {
         "id": 128,
+        "name": "Dhaka Protidin",
         "link": "http://dhakaprotidin.com",
         "image": "/images/dhakaprotidin.com.jpg",
-        "category": "top"
+        "category": "online-newspapers"
     },
     {
         "id": 129,
+        "name": "Eibela",
         "link": "http://eibela.com",
         "image": "/images/eibela.com.jpg",
-        "category": "top"
+        "category": "online-newspapers"
     },
     {
         "id": 130,
+        "name": "PBD",
         "link": "http://pbd.news",
-        "image": "/images/pbd.news.jpg",
-        "category": "top"
+        "image": "/images/pbd.png",
+        "category": "online-newspapers"
     },
     {
         "id": 131,
+        "name": "Techshohor",
         "link": "http://techshohor.com",
-        "image": "/images/techshohor.com.jpg",
-        "category": "top"
+        "image": "/images/techshohor.jpg",
+        "category": "online-newspapers"
     },
     {
         "id": 132,
+        "name": "Tech Zoom",
         "link": "http://techzoom.tv",
-        "image": "/images/techzoom.tv.jpg",
-        "category": "top"
+        "image": "/images/techzoom.jpg",
+        "category": "online-newspapers"
     },
     {
         "id": 133,

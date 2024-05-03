@@ -37,18 +37,18 @@ const CategoryNewspapers = () => {
       const jobSitesData = data.filter(d => d.category === "job-sites");
       const educationalData = data.filter(d => d.category === "educational");
 
-      console.log(banglaPapersData);
-      console.log(banglaEPapersData);
-      console.log(onlinePapersData);
-      console.log(tvChannelsData);
-      console.log(localPapersData);
-      console.log(internationalPapersData);
-      console.log(radioChannelsData);
-      console.log(impInternationTVChannelsData);
-      console.log(indianPapersData);
-      console.log(magazines);
-      console.log(jobSites);
-      console.log(educational);
+    //   console.log(banglaPapersData);
+    //   console.log(banglaEPapersData);
+    //   console.log(onlinePapersData);
+    //   console.log(tvChannelsData);
+    //   console.log(localPapersData);
+    //   console.log(internationalPapersData);
+    //   console.log(radioChannelsData);
+    //   console.log(impInternationTVChannelsData);
+    //   console.log(indianPapersData);
+    //   console.log(magazines);
+    //   console.log(jobSites);
+    //   console.log(educational);
 
       setBanglaPapers(banglaPapersData);
       setBanglaEPapers(banglaEPapersData);

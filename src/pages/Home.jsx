@@ -1,12 +1,11 @@
 import React from 'react'
-import BanglaNewspapers from '../components/BanglaNewspapers/BanglaNewspapers'
-import OnlineNewspapers from '../components/OnlineNewspapers'
+import CategoryNewspapers from '../components/CategoryNewspapers'
+
 
 const Home = () => {
   return (
     <div>
-        <BanglaNewspapers/>
-        <OnlineNewspapers/>
+        <CategoryNewspapers/>
     </div>
   )
 }

@@ -122,9 +122,10 @@
     },
     {
         "id": 19,
+        "name": "Dailystar",
         "link": "https://thedailystar.net",
         "image": "/images/thedailystar.net.jpg",
-        "category": "top"
+        "category": "international-papers"
     },
     {
         "id": 20,
@@ -914,722 +915,890 @@
     },
     {
         "id": 133,
+        "name": "Channel I",
         "link": "http://www.channelionline.com",
-        "image": "/images/www.channelionline.com.jpg",
-        "category": "top"
+        "image": "/images/channel-i-tv.com.jpg",
+        "category": "tv-channels"
     },
     {
         "id": 134,
+        "name": "Independent TV",
         "link": "http://independent24.com",
         "image": "/images/independent24.com.jpg",
-        "category": "top"
+        "category": "tv-channels"
     },
     {
         "id": 135,
+        "name": "Somoy News",
         "link": "http://somoynews.tv",
         "image": "/images/somoynews.tv.jpg",
-        "category": "top"
+        "category": "tv-channels"
     },
     {
         "id": 136,
+        "name": "NTV BD",
         "link": "http://ntvbd.com",
         "image": "/images/ntvbd.com.jpg",
-        "category": "top"
+        "category": "tv-channels"
     },
     {
         "id": 137,
+        "name": "Channel 24 BD",
         "link": "http://channel24bd.tv",
         "image": "/images/channel24bd.tv.jpg",
-        "category": "top"
+        "category": "tv-channels"
     },
     {
         "id": 138,
+        "name": "RTV",
         "link": "http://rtvonline.com",
         "image": "/images/rtvonline.com.jpg",
-        "category": "top"
+        "category": "tv-channels"
     },
     {
         "id": 139,
+        "name": "Ekushey TV",
         "link": "http://ekushey-tv.com",
         "image": "/images/ekushey-tv.com.jpg",
-        "category": "top"
+        "category": "tv-channels"
     },
     {
         "id": 140,
+        "name": "ATN Bangla",
         "link": "http://atnbangla.tv",
         "image": "/images/atnbangla.tv.jpg",
-        "category": "top"
+        "category": "tv-channels"
     },
     {
         "id": 141,
+        "name": "Jamuna TV",
         "link": "http://jamuna.tv",
-        "image": "/images/jamuna.tv.jpg",
-        "category": "top"
+        "image": "/images/jamunatelevision.com.jpg",
+        "category": "tv-channels"
     },
     {
         "id": 142,
+        "name": "SATV",
         "link": "http://satv.tv",
         "image": "/images/satv.tv.jpg",
-        "category": "top"
+        "category": "tv-channels"
     },
     {
         "id": 143,
+        "name": "Desh TV",
         "link": "http://desh.tv",
         "image": "/images/desh.tv.jpg",
-        "category": "top"
+        "category": "tv-channels"
     },
     {
         "id": 144,
+        "name": "Maasranga TV",
         "link": "http://maasranga.tv",
         "image": "/images/maasranga.tv.jpg",
-        "category": "top"
+        "category": "tv-channels"
     },
     {
         "id": 145,
+        "name": "Bangla Vision",
         "link": "http://banglavision.tv",
         "image": "/images/banglavision.tv.jpg",
-        "category": "top"
+        "category": "tv-channels"
     },
     {
         "id": 146,
+        "name": "Ekattor TV",
         "link": "http://ekattor.tv",
         "image": "/images/ekattor.tv.jpg",
-        "category": "top"
+        "category": "tv-channels"
     },
     {
         "id": 147,
+        "name": "ATN News",
         "link": "http://atnnewstv.com",
         "image": "/images/atnnewstv.com.jpg",
-        "category": "top"
+        "category": "tv-channels"
     },
     {
         "id": 148,
+        "name": "My TV",
         "link": "http://mytvbd.tv",
         "image": "/images/mytvbd.tv.jpg",
-        "category": "top"
+        "category": "tv-channels"
     },
     {
         "id": 149,
+        "name": "Boishakhi TV",
         "link": "http://boishakhi.tv",
         "image": "/images/boishakhi.tv.jpg",
-        "category": "top"
+        "category": "tv-channels"
     },
     {
         "id": 150,
+        "name": "Mohana TV",
         "link": "http://mohona.tv",
-        "image": "/images/mohona.tv.jpg",
-        "category": "top"
+        "image": "/images/mohonatv.com.jpg",
+        "category": "tv-channels"
     },
     {
         "id": 151,
+        "name": "Gazi TV (GTV)",
         "link": "http://gazitv.com",
         "image": "/images/gazitv.com.jpg",
-        "category": "top"
+        "category": "tv-channels"
     },
     {
         "id": 152,
+        "name": "BTV",
         "link": "http://btv.gov.bd",
         "image": "/images/btv.gov.bd.jpg",
-        "category": "top"
+        "category": "tv-channels"
     },
     {
         "id": 153,
+        "name": "Channel 16",
         "link": "http://channel-16tv.com",
         "image": "/images/channel-16tv.com.jpg",
-        "category": "top"
+        "category": "tv-channels"
     },
     {
         "id": 154,
+        "name": "Gaan Bangla",
         "link": "http://gaanbangla.tv",
         "image": "/images/gaanbangla.tv.jpg",
-        "category": "top"
+        "category": "tv-channels"
     },
     {
         "id": 155,
+        "name": "Daily Azadi",
         "link": "http://dainikazadi.net",
-        "image": "/images/dainikazadi.net.jpg",
-        "category": "top"
+        "image": "/images/dainikazadi.org.png",
+        "category": "local-papers"
     },
     {
         "id": 156,
+        "name": "Daily Purbokone",
         "link": "http://dainikpurbokone.net",
-        "image": "/images/dainikpurbokone.net.jpg",
-        "category": "top"
+        "image": "/images/dainikpurbokone.net.png",
+        "category": "local-papers"
     },
     {
         "id": 157,
+        "name": "Amader Comilla",
         "link": "http://dailyamadercomilla.com",
-        "image": "/images/dailyamadercomilla.com.jpg",
-        "category": "top"
+        "image": "/images/dailyamadercomilla.com.png",
+        "category": "local-papers"
     },
     {
         "id": 158,
+        "name": "Daily Purbanchal",
         "link": "http://purbanchal.com",
-        "image": "/images/purbanchal.com.jpg",
-        "category": "top"
+        "image": "/images/purbanchal.com.png",
+        "category": "local-papers"
     },
     {
         "id": 159,
+        "name": "Coxsbazar News",
         "link": "http://coxsbazarnews.com",
-        "image": "/images/coxsbazarnews.com.jpg",
-        "category": "top"
+        "image": "/images/coxsbazarnews.com.png",
+        "category": "local-papers"
     },
     {
         "id": 160,
+        "name": "Ukhiya News",
         "link": "http://ukhiyanews.com",
         "image": "/images/ukhiyanews.com.jpg",
-        "category": "top"
+        "category": "local-papers"
     },
     {
         "id": 161,
+        "name": "Khulna News",
         "link": "http://khulnanews.com",
-        "image": "/images/khulnanews.com.jpg",
-        "category": "top"
+        "image": "/images/khulnanews.com.png",
+        "category": "local-papers"
     },
     {
         "id": 162,
+        "name": "Matha Bhanga",
         "link": "http://mathabhanga.com",
-        "image": "/images/mathabhanga.com.jpg",
-        "category": "top"
+        "image": "/images/mathabhanga.com.png",
+        "category": "local-papers"
     },
     {
         "id": 163,
+        "name": "Rajshahi News 24",
         "link": "http://rajshahinews24.com",
-        "image": "/images/rajshahinews24.com.jpg",
-        "category": "top"
+        "image": "/images/rajshahinews24.com.png",
+        "category": "local-papers"
     },
     {
         "id": 164,
+        "name": "Chattagram News",
         "link": "http://chattogramnews.com",
-        "image": "/images/chattogramnews.com.jpg",
-        "category": "top"
+        "image": "/images/chattogramnews.png",
+        "category": "local-papers"
     },
     {
         "id": 165,
+        "name": "Daily Khowai",
         "link": "http://dailykhowai.com",
         "image": "/images/dailykhowai.com.jpg",
-        "category": "top"
+        "category": "local-papers"
     },
     {
         "id": 166,
+        "name": "Daily Karatoa",
         "link": "http://karatoa.com.bd",
         "image": "/images/karatoa.com.bd.jpg",
-        "category": "top"
+        "category": "local-papers"
     },
     {
         "id": 167,
+        "name": "Dainik Sylhet",
         "link": "http://dainiksylhet.com",
         "image": "/images/dainiksylhet.com.jpg",
-        "category": "top"
+        "category": "local-papers"
     },
     {
         "id": 168,
+        "name": "Daily Coxsbazar",
         "link": "http://dailycoxsbazar.com",
         "image": "/images/dailycoxsbazar.com.jpg",
-        "category": "top"
+        "category": "local-papers"
     },
     {
         "id": 169,
+        "name": "Uttorpurbo",
         "link": "http://euttorpurbo.com",
-        "image": "/images/euttorpurbo.com.jpg",
-        "category": "top"
+        "image": "/images/uttorpurbo.com.jpg",
+        "category": "local-papers"
     },
     {
         "id": 170,
+        "name": "Ajker Jamalpur",
         "link": "http://ajkerjamalpur.com",
         "image": "/images/ajkerjamalpur.com.jpg",
-        "category": "top"
+        "category": "local-papers"
     },
     {
         "id": 171,
+        "name": "Amader Barishal",
         "link": "http://amaderbarisal.com",
         "image": "/images/amaderbarisal.com.jpg",
-        "category": "top"
+        "category": "local-papers"
     },
     {
         "id": 172,
+        "name": "Surma Times",
         "link": "http://surmatimes.com",
         "image": "/images/surmatimes.com.jpg",
-        "category": "top"
+        "category": "local-papers"
     },
     {
         "id": 173,
+        "name": "Daily Sylhet",
         "link": "http://dailysylhet.com",
         "image": "/images/dailysylhet.com.jpg",
-        "category": "top"
+        "category": "local-papers"
     },
     {
         "id": 174,
+        "name": "Chadpur Times",
         "link": "http://chandpurtimes.com",
         "image": "/images/chandpurtimes.com.jpg",
-        "category": "top"
+        "category": "local-papers"
     },
     {
         "id": 175,
+        "name": "Mukto Khobor 24",
         "link": "http://muktokhobor24.com",
         "image": "/images/muktokhobor24.com.jpg",
-        "category": "top"
+        "category": "local-papers"
     },
     {
         "id": 176,
+        "name": "Bogra Sangbad",
         "link": "http://bograsangbad.com",
         "image": "/images/bograsangbad.com.jpg",
-        "category": "top"
+        "category": "local-papers"
     },
     {
         "id": 177,
+        "name": "Rajshahir Somoy",
         "link": "http://rajshahirsomoy.com",
         "image": "/images/rajshahirsomoy.com.jpg",
-        "category": "top"
+        "category": "local-papers"
     },
     {
         "id": 178,
+        "name": "Sylhet Express",
         "link": "http://sylhetexpress.com",
         "image": "/images/sylhetexpress.com.jpg",
-        "category": "top"
+        "category": "local-papers"
     },
     {
         "id": 179,
+        "name": "Laksmipur 24",
         "link": "http://lakshmipur24.com",
         "image": "/images/lakshmipur24.com.jpg",
-        "category": "top"
+        "category": "local-papers"
     },
     {
         "id": 180,
+        "name": "Prothom Feni",
         "link": "http://prothom-feni.com",
-        "image": "/images/prothom-feni.com.jpg",
-        "category": "top"
+        "image": "/images/prothom-feni.com.png",
+        "category": "local-papers"
     },
     {
         "id": 181,
+        "name": "Amar Noakhali",
         "link": "http://amarnoakhali.com",
-        "image": "/images/amarnoakhali.com.jpg",
-        "category": "top"
+        "image": "/images/amarnoakhali.com.png",
+        "category": "local-papers"
     },
     {
         "id": 182,
+        "name": "Chakaria News",
         "link": "http://chakarianews.com",
-        "image": "/images/chakarianews.com.jpg",
-        "category": "top"
+        "image": "/images/chakarianews.com.png",
+        "category": "local-papers"
     },
     {
         "id": 183,
+        "name": "Gramer Kagoj",
         "link": "http://gramerkagoj.com",
-        "image": "/images/gramerkagoj.com.jpg",
-        "category": "top"
+        "image": "/images/gramerkagoj.com.png",
+        "category": "local-papers"
     },
     {
         "id": 184,
+        "name": "Khulnanchal",
         "link": "http://khulnanchal.com",
-        "image": "/images/khulnanchal.com.jpg",
-        "category": "top"
+        "image": "/images/khulnanchal.com.png",
+        "category": "local-papers"
     },
     {
         "id": 185,
+        "name": "AFP",
         "link": "http://www.afp.com",
-        "image": "/images/www.afp.com.jpg",
-        "category": "top"
+        "image": "/images/afp.com.jpg",
+        "category": "international-papers"
     },
     {
         "id": 186,
+        "name": "The Guardian",
         "link": "http://theguardian.com",
         "image": "/images/theguardian.com.jpg",
-        "category": "top"
+        "category": "international-papers"
     },
     {
         "id": 187,
+        "name": "Abc News",
         "link": "http://abcnews.go.com",
         "image": "/images/abcnews.go.com.jpg",
-        "category": "top"
+        "category": "international-papers"
     },
     {
         "id": 188,
+        "name": "The Moscow Times",
         "link": "http://themoscowtimes.com",
         "image": "/images/themoscowtimes.com.jpg",
-        "category": "top"
+        "category": "international-papers"
     },
     {
         "id": 189,
+        "name": "New Age",
         "link": "http://newagebd.net",
         "image": "/images/newagebd.net.jpg",
-        "category": "top"
+        "category": "international-papers"
     },
     {
         "id": 190,
+        "name": "Yahoo News",
         "link": "http://news.yahoo.com",
         "image": "/images/news.yahoo.com.jpg",
-        "category": "top"
+        "category": "international-papers"
     },
     {
         "id": 191,
+        "name": "Daily Sun",
         "link": "http://daily-sun.com",
         "image": "/images/daily-sun.com.jpg",
-        "category": "top"
+        "category": "international-papers"
     },
     {
         "id": 192,
+        "name": "Bangladesh Today",
         "link": "http://thebangladeshtoday.com",
         "image": "/images/thebangladeshtoday.com.jpg",
-        "category": "top"
+        "category": "international-papers"
     },
     {
         "id": 193,
+        "name": "Nytimes",
         "link": "http://nytimes.com",
         "image": "/images/nytimes.com.jpg",
-        "category": "top"
+        "category": "international-papers"
     },
     {
         "id": 194,
+        "name": "Hindustan Times",
         "link": "http://hindustantimes.com",
         "image": "/images/hindustantimes.com.jpg",
-        "category": "top"
+        "category": "international-papers"
     },
     {
         "id": 195,
+        "name": "Voa Bangla",
         "link": "http://voabangla.com",
         "image": "/images/voabangla.com.jpg",
-        "category": "top"
+        "category": "radio-channels"
     },
     {
         "id": 196,
+        "name": "ABC Radio",
         "link": "http://abcradio.fm",
         "image": "/images/abcradio.fm.jpg",
-        "category": "top"
+        "category": "radio-channels"
     },
     {
         "id": 197,
+        "name": "Radio Today",
         "link": "http://radiotodaybd.fm",
         "image": "/images/radiotodaybd.fm.jpg",
-        "category": "top"
+        "category": "radio-channels"
     },
     {
         "id": 198,
+        "name": "UN Multimedia",
         "link": "http://unmultimedia.org",
         "image": "/images/unmultimedia.org.jpg",
-        "category": "top"
+        "category": "radio-channels"
     },
     {
         "id": 199,
+        "name": "Dhaka FM",
         "link": "http://dhakafm904.com",
         "image": "/images/dhakafm904.com.jpg",
-        "category": "top"
+        "category": "radio-channels"
     },
     {
         "id": 200,
+        "name": "Radio Foorti",
         "link": "http://radiofoorti.fm",
         "image": "/images/radiofoorti.fm.jpg",
-        "category": "top"
+        "category": "radio-channels"
     },
     {
         "id": 201,
+        "name": "Betar",
         "link": "http://betar.gov.bd",
-        "image": "/images/betar.gov.bd.jpg",
-        "category": "top"
+        "image": "/images/betar.org.bd.jpg",
+        "category": "radio-channels"
     },
     {
         "id": 202,
+        "name": "Peoples Radio",
         "link": "http://peoplesradio.fm",
         "image": "/images/peoplesradio.fm.jpg",
-        "category": "top"
+        "category": "radio-channels"
     },
     {
         "id": 203,
+        "name": "Radio Shadhin",
         "link": "http://radioshadhin.fm",
         "image": "/images/radioshadhin.fm.jpg",
-        "category": "top"
+        "category": "radio-channels"
     },
     {
         "id": 204,
+        "name": "Bangla Radio 24",
         "link": "http://banglaradio24.com",
         "image": "/images/banglaradio24.com.jpg",
-        "category": "top"
+        "category": "radio-channels"
     },
     {
         "id": 205,
+        "name": "Radio Goongoon",
         "link": "http://radiogoongoon.com",
         "image": "/images/radiogoongoon.com.jpg",
-        "category": "top"
+        "category": "radio-channels"
     },
     {
         "id": 206,
+        "name": "Jago FM",
         "link": "http://jago.fm",
         "image": "/images/jago.fm.jpg",
-        "category": "top"
+        "category": "radio-channels"
     },
     {
         "id": 207,
+        "name": "CNN",
         "link": "http://edition.cnn.com",
         "image": "/images/edition.cnn.com.jpg",
-        "category": "top"
+        "category": "imp-international-tv-channels"
     },
     {
         "id": 208,
+        "name": "Aljazeera",
         "link": "http://aljazeera.com",
         "image": "/images/aljazeera.com.jpg",
-        "category": "top"
+        "category": "imp-international-tv-channels"
     },
     {
         "id": 209,
+        "name": "BBC",
         "link": "http://bbc.com",
         "image": "/images/bbc.com.jpg",
-        "category": "top"
+        "category": "imp-international-tv-channels"
     },
     {
         "id": 210,
+        "name": "NDTV",
         "link": "http://ndtv.com",
         "image": "/images/ndtv.com.jpg",
-        "category": "top"
+        "category": "imp-international-tv-channels"
     },
     {
         "id": 211,
+        "name": "Reuters",
         "link": "http://reuters.com",
         "image": "/images/reuters.com.jpg",
-        "category": "top"
+        "category": "imp-international-tv-channels"
     },
     {
         "id": 212,
+        "name": "Foxnews",
         "link": "http://foxnews.com",
         "image": "/images/foxnews.com.jpg",
-        "category": "top"
+        "category": "imp-international-tv-channels"
     },
     {
         "id": 213,
+        "name": "GEO",
         "link": "http://geo.tv",
         "image": "/images/geo.tv.jpg",
-        "category": "top"
+        "category": "imp-international-tv-channels"
     },
     {
         "id": 214,
+        "name": "Sky News",
         "link": "http://news.sky.com",
         "image": "/images/news.sky.com.jpg",
-        "category": "top"
+        "category": "imp-international-tv-channels"
     },
     {
         "id": 215,
+        "name": "Euronews",
         "link": "http://euronews.com",
         "image": "/images/euronews.com.jpg",
-        "category": "top"
+        "category": "imp-international-tv-channels"
     },
     {
         "id": 216,
+        "name": "Press TV",
         "link": "http://presstv.ir",
         "image": "/images/presstv.ir.jpg",
-        "category": "top"
+        "category": "imp-international-tv-channels"
     },
     {
         "id": 217,
+        "name": "Discovery",
         "link": "http://discovery.com",
         "image": "/images/discovery.com.jpg",
-        "category": "top"
+        "category": "imp-international-tv-channels"
     },
     {
         "id": 218,
+        "name": "CCTV",
         "link": "http://english.cctv.com",
         "image": "/images/english.cctv.com.jpg",
-        "category": "top"
+        "category": "imp-international-tv-channels"
     },
     {
         "id": 219,
+        "name": "Ananda Bazar",
         "link": "http://anandabazar.com",
         "image": "/images/anandabazar.com.jpg",
-        "category": "top"
+        "category": "indian-papers"
     },
     {
         "id": 220,
+        "name": "Ajj Kaal",
         "link": "http://aajkaal.in",
-        "image": "/images/aajkaal.in.jpg",
-        "category": "top"
+        "image": "/images/aajkaal.net.jpg",
+        "category": "indian-papers"
     },
     {
         "id": 221,
+        "name": "Kolkata24X7",
         "link": "http://kolkata24x7.in",
-        "image": "/images/kolkata24x7.in.jpg",
-        "category": "top"
+        "image": "/images/kolkata24x7.com.png",
+        "category": "indian-papers"
     },
     {
         "id": 222,
+        "name": "ABP Ananda",
         "link": "http://bengali.abplive.com",
-        "image": "/images/bengali.abplive.com.jpg",
-        "category": "top"
+        "image": "/images/abpananda.abplive.in.png",
+        "category": "indian-papers"
     },
     {
         "id": 223,
+        "name": "Syanda Patrika",
         "link": "http://syandanpatrika.com",
         "image": "/images/syandanpatrika.com.jpg",
-        "category": "top"
+        "category": "indian-papers"
     },
     {
         "id": 224,
+        "name": "Sangbad Pratidin",
         "link": "http://sangbadpratidin.in",
         "image": "/images/sangbadpratidin.in.jpg",
-        "category": "top"
+        "category": "indian-papers"
     },
     {
         "id": 225,
+        "name": "Bartaman Patrika",
         "link": "http://bartamanpatrika.com",
         "image": "/images/bartamanpatrika.com.jpg",
-        "category": "top"
+        "category": "indian-papers"
     },
     {
         "id": 226,
+        "name": "Ganashkti",
         "link": "http://ganashakti.com",
         "image": "/images/ganashakti.com.jpg",
-        "category": "top"
+        "category": "indian-papers"
     },
     {
         "id": 227,
+        "name": "Asomiya Pratidin",
         "link": "http://asomiyapratidin.co.in",
         "image": "/images/asomiyapratidin.co.in.jpg",
-        "category": "top"
+        "category": "indian-papers"
     },
     {
         "id": 228,
+        "name":"Eisamay",
         "link": "http://eisamay.com",
-        "image": "/images/eisamay.com.jpg",
-        "category": "top"
+        "image": "/images/epaper.eisamay.com.jpg",
+        "category": "indian-papers"
     },
     {
         "id": 229,
+        "name": "Uttarbanga Sambad",
         "link": "http://uttarbangasambad.com",
         "image": "/images/uttarbangasambad.com.jpg",
-        "category": "top"
+        "category": "indian-papers"
     },
     {
         "id": 230,
+        "name": "Ebela",
         "link": "http://ebela.in",
         "image": "/images/ebela.in.jpg",
-        "category": "top"
+        "category": "indian-papers"
     },
     {
         "id": 231,
+        "name": "Dainik Sambad",
         "link": "http://dainiksambad.net",
         "image": "/images/dainiksambad.net.jpg",
-        "category": "top"
+        "category": "indian-papers"
     },
     {
         "id": 232,
+        "name": "Amader Malda",
         "link": "http://aamadermalda.in",
-        "image": "/images/aamadermalda.in.jpg",
-        "category": "top"
+        "image": "/images/aamadermalda.in.png",
+        "category": "indian-papers"
     },
     {
         "id": 233,
+        "name": "Ganashakti",
         "link": "http://bangla.ganashakti.co.in",
-        "image": "/images/bangla.ganashakti.co.in.jpg",
-        "category": "top"
+        "image": "/images/ganashakti.com.jpg",
+        "category": "indian-papers"
     },
     {
         "id": 234,
+        "name": "বাংলাদেশের খেলা",
         "link": "http://bangladesherkhela.com",
         "image": "/images/bangladesherkhela.com.jpg",
-        "category": "top"
+        "category": "magazines"
     },
     {
         "id": 235,
+        "name": "Weekly Bangalee",
         "link": "http://weeklybangalee.com",
         "image": "/images/weeklybangalee.com.jpg",
-        "category": "top"
+        "category": "magazines"
     },
     {
         "id": 236,
+        "name": "Dhaka Courier",
         "link": "http://dhakacourier.com.bd",
         "image": "/images/dhakacourier.com.bd.jpg",
-        "category": "top"
+        "category": "magazines"
     },
     {
         "id": 237,
+        "name": "Bichitra",
         "link": "http://bichitra.org",
         "image": "/images/bichitra.org.jpg",
-        "category": "top"
+        "category": "magazines"
     },
     {
         "id": 238,
+        "name": "Comjagat",
         "link": "http://comjagat.com",
         "image": "/images/comjagat.com.jpg",
-        "category": "top"
+        "category": "magazines"
     },
     {
         "id": 239,
+        "name": "Weekly Holiday",
         "link": "http://weeklyholiday.net",
         "image": "/images/weeklyholiday.net.jpg",
-        "category": "top"
+        "category": "magazines"
     },
     {
         "id": 240,
+        "name": "Kali o Kalam",
         "link": "http://kaliokalam.com",
         "image": "/images/kaliokalam.com.jpg",
-        "category": "top"
+        "category": "magazines"
     },
     {
         "id": 241,
+        "name": "Scientific Bangladesh",
         "link": "http://scientificbangladesh.com",
         "image": "/images/scientificbangladesh.com.jpg",
-        "category": "top"
+        "category": "magazines"
     },
     {
         "id": 242,
+        "name": "BD Jobs",
         "link": "http://bdjobs.com",
         "image": "/images/bdjobs.com.jpg",
-        "category": "top"
+        "category": "job-sites"
     },
     {
         "id": 243,
+        "name": "Joss BD",
         "link": "http://jobsbd.com",
         "image": "/images/jobsbd.com.jpg",
-        "category": "top"
+        "category": "job-sites"
     },
     {
         "id": 244,
+        "name": "Jobs A1",
         "link": "http://jobsa1.com",
         "image": "/images/jobsa1.com.jpg",
-        "category": "top"
+        "category": "job-sites"
     },
     {
         "id": 245,
+        "name": "Jobs in BD",
         "link": "http://jobsinbd.com",
         "image": "/images/jobsinbd.com.jpg",
-        "category": "top"
+        "category": "job-sites"
     },
     {
         "id": 246,
+        "name": "BD Jobs Today",
         "link": "http://bdjobstoday.com",
         "image": "/images/bdjobstoday.com.jpg",
-        "category": "top"
+        "category": "job-sites"
     },
     {
         "id": 247,
+        "name": "Job.com.bd",
         "link": "http://job.com.bd",
         "image": "/images/job.com.bd.jpg",
-        "category": "top"
+        "category": "job-sites"
     },
     {
         "id": 248,
+        "name": "Job Search",
         "link": "http://jobsearch.gov.au",
         "image": "/images/jobsearch.gov.au.jpg",
-        "category": "top"
+        "category": "job-sites"
     },
     {
         "id": 249,
+        "name": "Education Bangla",
         "link": "http://educationbangla.com",
-        "image": "/images/educationbangla.com.jpg",
-        "category": "top"
+        "image": "/images/education-bangla.jpg",
+        "category": "educational"
     },
     {
         "id": 250,
+        "name": "Educationboard Result",
         "link": "http://educationboardresults.gov.bd",
         "image": "/images/educationboardresults.gov.bd.jpg",
-        "category": "top"
+        "category": "educational"
     },
     {
         "id": 251,
+        "name": "National University",
         "link": "http://www.nu.ac.bd",
-        "image": "/images/www.nu.ac.bd.jpg",
-        "category": "top"
+        "image": "/images/nu.edu.bd.jpg",
+        "category": "educational"
     },
     {
         "id": 252,
         "link": "https://www.kholakagojbd.com/",
         "image": "/images/kholakagojbd.com.gif",
         "category": "bd-newspapers"
+    },
+    {
+        "id": 253,
+        "name": "BBC Bangla",
+        "link": "https://www.bbc.com/bengali",
+        "image": "/images/bbc.co.uk.jpg",
+        "category": "radio-channels"
+    },
+    {
+        "id": 254,
+        "name": "CRL Online",
+        "link": "https://bengali.cri.cn/",
+        "image": "/images/bengali.cri.cn.jpg",
+        "category": "radio-channels"
+    },
+    {
+        "id": 255,
+        "name": "NHK WORLD",
+        "link": "https://www3.nhk.or.jp/nhkworld/bn/",
+        "image": "/images/www3.nhk.or.jp.jpg",
+        "category": "radio-channels"
+    },
+    {
+        "id": 256,
+        "name": "ParsToday",
+        "link": "https://parstoday.ir/bn",
+        "image": "/images/parsetoday.PNG",
+        "category": "radio-channels"
+    },
+    {
+        "id": 257,
+        "name": "DW",
+        "link": "https://www.dw.com/bn/",
+        "image": "/images/dw.de.jpg",
+        "category": "radio-channels"
+    },
+    {
+        "id": 258,
+        "name": "ZEE 24 Ghanta",
+        "link": "https://zeenews.india.com/bengali/",
+        "image": "/images/zeenews.india.com.jpg",
+        "category": "indian-papers"
+    },
+    {
+        "id": 259,
+        "name": "NDTV BANGLA",
+        "link": "https://www.ndtv.com/bengali/india",
+        "image": "/images/ndtv-bangla.png",
+        "category": "indian-papers"
     }
 ]

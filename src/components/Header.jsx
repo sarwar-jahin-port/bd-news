@@ -1,4 +1,5 @@
 import React, { useEffect, useState } from 'react';
+import logo from "/images/logo.png"
 
 const Header = () => {
   const [isMenuOpen, setIsMenuOpen] = useState(false);
@@ -23,7 +24,9 @@ const Header = () => {
     <nav className="bg-gray-800 py-4">
       <div className="container mx-auto flex justify-between items-center">
         <div className="flex items-center">
-          <a href="/" className="text-white text-xl font-bold">Logo</a>
+          <a href="/" className="text-white text-xl font-bold">
+            <img src={logo} alt="" />
+          </a>
         </div>
 
         <div className="hidden md:flex items-center space-x-6">

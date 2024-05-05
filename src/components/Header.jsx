@@ -28,8 +28,8 @@ const Header = () => {
 
         <div className="hidden md:flex items-center space-x-6">
           <a href="/" className="text-white hover:text-gray-300">Home</a>
-          <a href="#" className="text-white hover:text-gray-300">Newspapers</a>
-          <a href="#" className="text-white hover:text-gray-300">Sharabazar Newspapers</a>
+          <a href="/newspapers" className="text-white hover:text-gray-300">Newspapers</a>
+          <a href="/share-bazar" className="text-white hover:text-gray-300">Sharabazar Newspapers</a>
           <a href="#" className="text-white hover:text-gray-300">Bangla Converter</a>
           <a href="#" className="text-white hover:text-gray-300">Submit Newspaper</a>
           <a href="#" className="text-white hover:text-gray-300">Contact Us</a>
@@ -47,8 +47,8 @@ const Header = () => {
       {isMenuOpen && (
         <div className="md:hidden mt-2">
           <a href="/" className="block text-white py-2 px-4">Home</a>
-          <a href="#" className="block text-white py-2 px-4">Newspapers</a>
-          <a href="#" className="block text-white py-2 px-4">Sharabazar Newspapers</a>
+          <a href="/newspapers" className="block text-white py-2 px-4">Newspapers</a>
+          <a href="/share-bazar" className="block text-white py-2 px-4">Sharabazar Newspapers</a>
           <a href="#" className="block text-white py-2 px-4">Bangla Converter</a>
           <a href="#" className="block text-white py-2 px-4">Submit Newspaper</a>
           <a href="#" className="block text-white py-2 px-4">Contact Us</a>

@@ -3,6 +3,7 @@ import {
 } from "react-router-dom";
 import Main from "../layouts/Main"
 import Home from "../pages/Home"
+import ShareBaraz from "../pages/ShareBaraz";
 
 const router = createBrowserRouter([
     {
@@ -12,6 +13,14 @@ const router = createBrowserRouter([
             {
                 path: "/",
                 element: <Home></Home>
+            },
+            {
+                path: "/newspapers",
+                element: <Home></Home>
+            },
+            {
+                path: "share-bazar",
+                element: <ShareBaraz></ShareBaraz>
             }
         ]
     }

@@ -1801,5 +1801,313 @@
         "link": "https://www.ndtv.com/bengali/india",
         "image": "/images/ndtv-bangla.png",
         "category": "indian-papers"
-    }
+    },
+    {
+        "id": 260,
+        "name": "Dhaka Tribune",
+        "link": "https://dhakatribune.com",
+        "image": "/images/share-bazar/dhakatribune.com.jpg",
+        "category": "share-bazar"
+      },
+      {
+        "id": 261,
+        "name": "The Independent",
+        "link": "https://theindependentbd.com",
+        "image": "/images/share-bazar/theindependentbd.com.jpg",
+        "category": "share-bazar"
+      },
+      {
+        "id": 262,
+        "name": "Daily Asian Age",
+        "link": "https://dailyasianage.com",
+        "image": "/images/share-bazar/dailyasianage.com.jpg",
+        "category": "share-bazar"
+      },
+      {
+        "id": 263,
+        "name": "Arthoniteerkagoj",
+        "link": "https://arthoniteerkagoj.com",
+        "image": "/images/share-bazar/arthoniteerkagoj.com.jpg",
+        "category": "share-bazar"
+      },
+      {
+        "id": 264,
+        "name": "Arthosuchak",
+        "link": "https://arthosuchak.com",
+        "image": "/images/share-bazar/arthosuchak.com.jpg",
+        "category": "share-bazar"
+      },
+      {
+        "id": 265,
+        "name": "Sunbd24",
+        "link": "https://sunbd24.com",
+        "image": "/images/share-bazar/sunbd24.com.jpg",
+        "category": "share-bazar"
+      },
+      {
+        "id": 266,
+        "name": "Share Bazar News",
+        "link": "https://sharebazarnews.com",
+        "image": "/images/share-bazar/sharebazarnews.com.jpg",
+        "category": "share-bazar"
+      },
+      {
+        "id": 267,
+        "name": "Bonik Barta",
+        "link": "https://bonikbarta.net",
+        "image": "/images/share-bazar/bonikbarta.net.jpg",
+        "category": "share-bazar"
+      },
+      {
+        "id": 268,
+        "name": "Share Biz",
+        "link": "https://sharebiz.net",
+        "image": "/images/share-bazar/sharebiz.net.jpg",
+        "category": "share-bazar"
+      },
+      {
+        "id": 269,
+        "name": "Daily Stock Bangladesh",
+        "link": "https://dailystockbangladesh.com",
+        "image": "/images/share-bazar/dailystockbangladesh.com.jpg",
+        "category": "share-bazar"
+      },
+      {
+        "id": 270,
+        "name": "The Financial Express",
+        "link": "https://thefinancialexpress.com.bd",
+        "image": "/images/share-bazar/thefinancialexpress.com.bd.jpg",
+        "category": "share-bazar"
+      },
+      {
+        "id": 271,
+        "name": "Ajker Bazzar",
+        "link": "https://ajkerbazzar.com",
+        "image": "/images/share-bazar/ajkerbazzar.com.jpg",
+        "category": "share-bazar"
+      },
+      {
+        "id": 272,
+        "name": "Ortho Songbad",
+        "link": "https://orthosongbad.com",
+        "image": "/images/share-bazar/orthosongbad.com.jpg",
+        "category": "share-bazar"
+      },
+      {
+        "id": 273,
+        "name": "Business Hour",
+        "link": "https://businesshour24.com",
+        "image": "/images/share-bazar/businesshour24.com.jpg",
+        "category": "share-bazar"
+      },
+      {
+        "id": 274,
+        "name": "Corporate Sangbad",
+        "link": "https://corporatesangbad.com",
+        "image": "/images/share-bazar/corporatesangbad.com.jpg",
+        "category": "share-bazar"
+      },
+      {
+        "id": 275,
+        "name": "Business Eye",
+        "link": "https://www.businesseyebd.com",
+        "image": "/images/share-bazar/businesseyebd.com.jpg",
+        "category": "share-bazar"
+      },
+      {
+        "id": 276,
+        "name": "Pujibazar",
+        "link": "https://pujibazar.com",
+        "image": "/images/share-bazar/pujibazar.com.jpg",
+        "category": "share-bazar"
+      },
+      {
+        "id": 277,
+        "name": "Daily Share Bazar Protidin",
+        "link": "https://dailysharebazarprotidin.com",
+        "image": "/images/share-bazar/dailysharebazarprotidin.com.jpg",
+        "category": "share-bazar"
+      },
+      {
+        "id": 278,
+        "name": "Desh Protikhon",
+        "link": "https://deshprotikhon.com",
+        "image": "/images/share-bazar/deshprotikhon.com.jpg",
+        "category": "share-bazar"
+      },
+      {
+        "id": 279,
+        "name": "Share Business 24",
+        "link": "https://sharebusiness24.com",
+        "image": "/images/share-bazar/sharebusiness24.com.jpg",
+        "category": "share-bazar"
+      },
+      {
+        "id": 280,
+        "name": "Biniog Barta",
+        "link": "https://biniogbarta.com",
+        "image": "/images/share-bazar/biniogbarta.com.jpg",
+        "category": "share-bazar"
+      },
+      {
+        "id": 281,
+        "name": "Energy Bangla",
+        "link": "https://energybangla.com.bd",
+        "image": "/images/share-bazar/energybangla.com.bd.jpg",
+        "category": "share-bazar"
+      },
+      {
+        "id": 282,
+        "name": "Sharebarta24",
+        "link": "https://sharebarta24.com",
+        "image": "/images/share-bazar/sharebarta24.com.jpg",
+        "category": "share-bazar"
+      },
+      {
+        "id": 283,
+        "name": "Business News 24 BD",
+        "link": "https://businessnews24bd.com",
+        "image": "/images/share-bazar/businessnews24bd.com.jpg",
+        "category": "share-bazar"
+      },
+      {
+        "id": 284,
+        "name": "Biniyougbarta",
+        "link": "https://biniyougbarta.com",
+        "image": "/images/share-bazar/biniyougbarta.com.jpg",
+        "category": "share-bazar"
+      },
+      {
+        "id": 285,
+        "name": "BDCap24",
+        "link": "https://bdcap24.net",
+        "image": "/images/share-bazar/bdcap24.net.jpg",
+        "category": "share-bazar"
+      },
+      {
+        "id": 286,
+        "name": "Insurance News BD",
+        "link": "https://insurancenewsbd.com",
+        "image": "/images/share-bazar/insurancenewsbd.com.jpg",
+        "category": "share-bazar"
+      },
+      {
+        "id": 287,
+        "name": "Insurance BD News",
+        "link": "https://insurancebd.news",
+        "image": "/images/share-bazar/insurancebd.news.jpg",
+        "category": "share-bazar"
+      },
+      {
+        "id": 288,
+        "name": "Bank Bima Arthonity",
+        "link": "https://bankbimaarthonity.com",
+        "image": "/images/share-bazar/bankbimaarthonity.com.jpg",
+        "category": "share-bazar"
+      },
+      {
+        "id": 289,
+        "name": "Banking News BD",
+        "link": "https://bankingnewsbd.com",
+        "image": "/images/share-bazar/bankingnewsbd.com.jpg",
+        "category": "share-bazar"
+      },
+      {
+        "id": 290,
+        "name": "Business News BD",
+        "link": "https://businessnews-bd.net",
+        "image": "/images/share-bazar/businessnews-bd.net.jpg",
+        "category": "share-bazar"
+      },
+      {
+        "id": 291,
+        "name": "Bangladesh Bank",
+        "link": "https://bb.org.bd",
+        "image": "/images/share-bazar/bb.org.bd.jpg",
+        "category": "share-bazar"
+      },
+      {
+        "id": 292,
+        "name": "Central Depository of Bangladesh Limited",
+        "link": "https://cdbl.com.bd",
+        "image": "/images/share-bazar/cdbl.com.bd.jpg",
+        "category": "share-bazar"
+      },
+      {
+        "id": 293,
+        "name": "Stock Bangladesh",
+        "link": "https://stockbangladesh.com",
+        "image": "/images/share-bazar/stockbangladesh.com.jpg",
+        "category": "share-bazar"
+      },
+      {
+        "id": 294,
+        "name": "Amar Stock",
+        "link": "https://amarstock.com",
+        "image": "/images/share-bazar/amarstock.com.jpg",
+        "category": "share-bazar"
+      },
+      {
+        "id": 295,
+        "name": "Lanka Bangladesh",
+        "link": "https://lankabd.com",
+        "image": "/images/share-bazar/lankabd.com.jpg",
+        "category": "share-bazar"
+      },
+      {
+        "id": 296,
+        "name": "Bangladesh Institute of Capital Market",
+        "link": "https://biasl.net",
+        "image": "/images/share-bazar/biasl.net.jpg",
+        "category": "share-bazar"
+      },
+      {
+        "id": 297,
+        "name": "BRAC EPL Stock Brokerage Ltd",
+        "link": "https://bracepl.com",
+        "image": "/images/share-bazar/bracepl.com.jpg",
+        "category": "share-bazar"
+      },
+      {
+        "id": 298,
+        "name": "EBL Securities",
+        "link": "https://www.eblsecurities.com",
+        "image": "/images/share-bazar/eblsecurities.com.jpg",
+        "category": "share-bazar"
+      },
+      {
+        "id": 299,
+        "name": "Sheltech Brokerage",
+        "link": "https://sheltechbrokerage.com",
+        "image": "/images/share-bazar/sheltechbrokerage.com.jpg",
+        "category": "share-bazar"
+      },
+      {
+        "id": 300,
+        "name": "City Brokerage Ltd",
+        "link": "https://citybrokerageltd.com",
+        "image": "/images/share-bazar/citybrokerageltd.com.jpg",
+        "category": "share-bazar"
+      },
+      {
+        "id": 301,
+        "name": "Business Insider",
+        "link": "https://businessinsider.com",
+        "image": "/images/share-bazar/businessinsider.com.jpg",
+        "category": "share-bazar"
+      },
+      {
+        "id": 302,
+        "name": "The Economist",
+        "link": "https://economist.com",
+        "image": "/images/share-bazar/economist.com.jpg",
+        "category": "share-bazar"
+      },
+      {
+        "id": 303,
+        "name": "Bloomberg",
+        "link": "https://bloomberg.com",
+        "image": "/images/share-bazar/bloomberg.com.jpg",
+        "category": "share-bazar"
+      }
 ]

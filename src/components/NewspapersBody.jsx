@@ -7,7 +7,7 @@ const NewspapersBody = ({title, papers}) => {
         <h1 className='text-3xl my-4'><span>| </span>{title}</h1>
       <div className='border grid grid-cols-2 md:grid-cols-4 lg:grid-cols-5 xl:grid-cols-6 gap-3'>
         {papers && papers.map((p, i) =>(
-            <div key={i} className='border flex flex-col flex-wrap justify-center items-center pt-5'>
+            <div key={i} className='border flex flex-col flex-wrap justify-center items-center pt-5 box-content'>
                 <Link to={p.link} target='_blank'>
                   <img className='max-w-36' src={p.image} alt="" />
                 </Link>

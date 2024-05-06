@@ -3,7 +3,7 @@ import {
 } from "react-router-dom";
 import Main from "../layouts/Main"
 import Home from "../pages/Home"
-import ShareBaraz from "../pages/ShareBaraz";
+import ContactUs from "../pages/ContactUs";
 
 const router = createBrowserRouter([
     {
@@ -15,12 +15,8 @@ const router = createBrowserRouter([
                 element: <Home></Home>
             },
             {
-                path: "newspapers",
-                element: <Home></Home>
-            },
-            {
-                path: "share-bazar",
-                element: <ShareBaraz></ShareBaraz>
+                path: "/contact-us",
+                element: <ContactUs></ContactUs>
             }
         ]
     }

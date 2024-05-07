@@ -9,7 +9,7 @@ function ContactUs() {
     }
 
     return (
-        <div className="min-h-screen flex justify-center bg-gray-100 py-12 px-4 sm:px-6 lg:px-8">
+        <div className=" flex justify-center bg-gray-100 py-12 px-4 sm:px-6 lg:px-8">
             <div className="max-w-md w-full space-y-8">
                 <h1 className='text-5xl text-center'>CONTACT US</h1>
                 <form className="mt-8 space-y-6" onSubmit={handleSubmit}>

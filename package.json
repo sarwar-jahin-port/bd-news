@@ -1,5 +1,6 @@
 {
   "name": "bdnews",
+  "homepage": "https://bangladeshnewspaper.xyz/",
   "private": true,
   "version": "0.0.0",
   "type": "module",
@@ -10,13 +11,18 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "@babel/preset-env": "^7.24.5",
     "@formspree/react": "^2.5.1",
+    "express": "^4.19.2",
     "localforage": "^1.10.0",
     "match-sorter": "^6.3.4",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
     "react-helmet": "^6.1.0",
+    "react-router": "^6.23.0",
+    "react-router-config": "^5.1.1",
     "react-router-dom": "^6.23.0",
+    "sitemap": "^7.1.1",
     "sort-by": "^1.2.0"
   },
   "devDependencies": {
